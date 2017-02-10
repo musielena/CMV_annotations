@@ -1,0 +1,59 @@
+T1	MajorClaim 19 85	I think that fracking is a practice that should be globally banned
+T2	Modal 60 66	should
+A1	POS T2 verbpronouncement
+T3	Premise 136 301	I think that no matter the economic benefits (or the environmental ones for switching other fuels to NG), the environmental costs/risks of the practice are too great
+T4	Premise 303 488	Not only with the question of wastewater disposal, but concerns over triggering seismic activity, groundwater contamination, and of course the fuel cost to transport water for fracking.
+R1	linked-support Arg1:T4 Arg2:T3	
+R2	supports-termination_setting_up Arg1:T3 Arg2:T1	
+T5	Claim 4688 4731	"Fracking has environmental risks and costs
+T6	Claim 4748 4792	so does every other form of power generation
+R3	concession Arg1:T5 Arg2:T6	
+T7	Claim 4794 4913	The risks of fracking must be weighed against that of those other forms of power generation, not considered in a vacuum
+T8	Evidential 4816 4820	must
+A2	POS T8 verbpronouncement
+T9	Modal 5698 5703	ought
+A3	POS T9 verbentertain
+T10	Modal 5730 5736	should
+A4	POS T10 verbconcurrence
+T11	Claim 5695 5717	it ought not be banned
+T12	Premise 5727 5834	we should replace the riskier/more costly method of power generation with natural gas extracted by fracking
+R4	supports-termination_setting_up Arg1:T12 Arg2:T11	
+T13	Premise 4915 4959	Oil risks oil spills and refinery explosions
+T14	Premise 4961 5026	Coal kills plenty of people with mine collapses and lung disease.
+T15	Premise 5027 5103	Hydro involves the construction of massive dams that can harm local wildlife
+T16	Premise 5105 5241	Wind turbines require the mining and refining of rare earth elements for the magnets in them, which is quite environmentally destructive
+T17	Premise 5243 5315	Photovoltaic solar cells use toxic cadmium. Nuclear power risks meltdown
+R5	linked-support Arg1:T13 Arg2:T14	
+R6	linked-support Arg1:T14 Arg2:T15	
+R7	linked-support Arg1:T15 Arg2:T16	
+R8	simple-support Arg1:T16 Arg2:T17	
+R9	supports-mereorogical Arg1:T17 Arg2:T6	
+T18	Claim 3809 3933	On one hand, I feel like there's a difference between fracking and other power forms because of how conscious we are of each
+T19	Premise 3935 4124	A power plant we can see and can see the smoke coming out of it, so we are more likely to demand that it be cleaner or whatnot, while fracking occurs at the oil well-not so much in our view
+R10	supports-mereorogical Arg1:T19 Arg2:T18	
+T20	Claim 4145 4206	there's so many more waste products from fracking than others
+T21	Premise 4208 4465	For oil or coal it's simply exhaust gasses from combustion &amp; nuclear waste from nnuclear plants. Fracking has exhaust gasses from NG combustion, wastewater from the fracking, and methane release from cracking the shale (and methane is 4x worse than CO2)
+R11	supports-mereorogical Arg1:T21 Arg2:T20	
+T22	Claim 4467 4568	Don't get me wrong, I think NG is a good fuel source as a transition fuel towards full sustainability
+T23	Claim 4570 4597	we just need better methods
+R12	concession Arg1:T22 Arg2:T23	
+T24	Modal 4578 4582	need
+A5	POS T24 verbpronouncement
+T25	Claim 3496 3569	Fracking produces 2.4% more methane leakage than normal natural gas wells
+T26	Evidential 3570 3582	according to
+A6	POS T26 verbendorsement
+T27	Claim 3595 3668	natural gas has considerably less NOx and SOx emissions than fossil fuels
+T28	Claim 2816 2959	I think you just know more about the specific waste products of the fracking process than you do about the waste products of mining other fuels
+T29	Premise 2961 3093	Petroleum drilling, mining and refining produces plenty of contaminated wastewater and other nasty chemical byproducts, for instance
+R13	supports-mereorogical Arg1:T29 Arg2:T28	
+T30	Premise 3098 3211	Also, the *number* of problematic byproducts of an energy-producing process is not the same as its *total impact*
+T31	Claim 3213 3401	What's worse: a process that produces a thimbleful each of contaminated wastewater, Co2, methane, and exhaust gases, or one that produces twenty million gallons of contaminated wastewater?
+R14	supports-definitional Arg1:T30 Arg2:T31	
+T32	Evidential 2134 2140	Should
+A7	POS T32 verbentertain
+T33	Premise 627 958	Water that is used (and highly contaminated) is kept out in open pits before transportation away from the site. This poses a threat to wildlife living nearby (should they drink it) and there's the added eventuality of that dirty water contaminating the water table (which it will, because not even our sewers can\"t stop this 100%)
+T34	Premise 962 1340	2. A second note on water, it can take up to 8 MILLION gallons per well, which all has to be shipped there via tanker truck. Not exactly efficient. That water is then made into a solution with up to 600 different chemicals (which companies aren't required to publish on a site-by-site basis, so we don't even know what's in what), and about 50-70 percent of the water is unused.
+T35	Premise 1344 1706	3. Air quality. Methane is a natural component in shale, so when it is cracked that methane can release to the atmosphere. Methane is four times more powerful of a greenhouse gas than CO2 is. Another thing is that the recovered water, when stored in these open pits, allows the contained chemicals to evaporate, and then disperse into the environment/your lungs.
+T36	Premise 1710 2001	4. By shooting a jet of pressurized water to break apart rocks we can (and have) trigger seismic activity. So...yeah. Pretty self-explanatory. (While these have been insignificant and rare, it's a situation of we're playing with fire. It's only a matter of time before something bad happens)
+T37	Premise 2005 2273	5. Finally, any significant success generated by fracking would take attention away from advances in truly green energy sources. Should we become content with just becoming clean*er*, we won't have the same drive to wean ourselves from total oil dependency after all",
+R15	supports-termination_setting_up Arg1:T33 Arg2:T1	

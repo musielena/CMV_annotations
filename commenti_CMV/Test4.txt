@@ -1,0 +1,101 @@
+POST: 4
+
+TITLE: "I believe that fracking is bad. CMV.",
+
+AUTHOR:  "paddyrebel",
+
+BEGIN POSTING: 
+"After reading many sources and from having disscussions with my peers I believe fracking is bad for both human health and the environment. CMV.
+
+Souces
+
+http://www.dangersoffracking.com/
+
+http://www.theatlantic.com/health/archive/2013/10/how-fracking-is-bad-for-our-bodies/280384/
+
+http://www.theguardian.com/environment/2013/oct/04/fracking-us-toxic-waste-water-washington
+
+http://www.bloomberg.com/news/2014-01-04/study-shows-fracking-is-bad-for-babies.html
+
+Please try to avoid conspiracy theories and use reputable resources and cite pubmed or similar scientific sites where possible, thank you.",
+END POSTING
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+COMMENT_ID: "t1_cehzp6f",
+AUTHOR:  "ilovewiffleball",
+REFERS TO: "t1_cehziat",
+TEXT:  "Sorry, I'm just going right off my own education and hands on experience. Outside of full length textbooks, the best I can do is give you some contact information of a man who has a doctorate in petroleum engineering who actually designed a lot of the systems that these companies use in acquisitions. He's very famous in the industry, but he's told me before to feel free to direct curious minds to him. He loves to educate the public.
+
+Besides those two routes, Google is sadly the best option. I'm sure you can find sources to back my claims, but I just don't have anything readily available and I need to leave my house in a few minutes. Hopefully you can slide through the propaganda flying from both sides and find a good scientific source.",
+
+
+COMMENT_ID: "t1_cehziat",
+AUTHOR:  "paddyrebel",
+REFERS TO: "t1_cehy19a",
+TEXT:  "Would you have a source for this information? 
+
+Thank you for the reply.",
+
+
+COMMENT_ID: "t1_cehybs2",
+AUTHOR:  "DeltaBot",
+REFERS TO: "t1_cehyavz",
+TEXT:  "Confirmed: 1 delta awarded to /u/ilovewiffleball. ^History(/r/changemyview/wiki/user/ilovewiffleball)
+
+^Wiki(http://www.reddit.com/r/changemyview/wiki/deltabot)Code(https://github.com/alexames/DeltaBot)Subreddit(http://www.reddit.com/r/DeltaBot/)",
+
+
+REFERS TO: "t1_cehyavz",
+COMMENT_ID: "t1_cehzfkl",
+
+
+COMMENT_ID: "t1_cehyavz",
+AUTHOR:  "Kingreaper",
+REFERS TO: "t1_cehy19a",
+TEXT:  "∆ I was under the impression that the risks of contaminating water were somewhat innate to the process. Knowing that they're just a case of needing proper protections is a big change in my view.",
+
+
+REFERS TO: "t1_cehy19a",
+COMMENT_ID: "t1_ceilfeh"
+
+
+COMMENT_ID: "t1_cehy19a",
+AUTHOR:  "ilovewiffleball",
+REFERS TO: "t1_cehuer4",
+TEXT:  "Chemical/petroleum engineer here. Just to add onto what you've stated about contaminated water.
+
+It is absolutely impossible for fracking water to pollute the environment during the fracking process. The water shelf is only a couple hundred feet under the ground. Fracking occurs at over 10,000 ft underground by cracking open shale and retrieving the natural gas out of the pores in the shale. There are many, many layers of rock between this and the water shelf. It is impossible for anything at that depth to miraculously travel upward through these layers about 2 miles and leech into the water supply.
+
+To prevent the gas and fracking fluid from this layer from entering the water shelf via the hole used to frack, the pipeline is sealed in sections as it is drilled. For example, say a crew drills a hole 500 ft into the ground and it crosses the water shelf. They then place a seamless stainless steel pipe down this hole. Next, they cement and seal the gap on the side between the steel pipe and the outer width of the pole. Then they drill another 500 ft. through the middle of this sealed hole and repeat until reaching 10,000-14,000 ft. This is a very simplified view, but the point is that by sealing the pipe off in sections, there is literally NO chance of the natural gas or fracking materials contaminating the water during the process.
+
+So why all the concern? It's due to surface spills. When fracking, a fluid that is usually a mix of water, sand and chemicals is pumped down the pipe to help cool the drill bit and crack open the pores in the shale. This stuff is not environmentally friendly and needs to be retrieved from the pipe once the fracking is completed. During this retrieval, sometimes the fluid spills onto the ground upon exiting the pipe. This is a HUGE problem and it absolutely does reach the ground water. 
+
+The point of this long winded post is that fracking in and of itself is a very useful tool that is perfectly safe. The dangers are when companies don't take proper care of the materials used after the process is complete. With great care and awareness, this is avoidable. The benefits of fracking are too large to ignore and the vast majority of fracking yields a net good for society. It's just the careless companies that have given the process a bad reputation.",
+
+
+REFERS TO: "t1_cehuer4",
+COMMENT_ID: "t1_cehuh45",
+
+
+COMMENT_ID: "t1_cehuer4",
+AUTHOR:  "deleted",
+REFERS TO: "t3_1ugf1c",
+TEXT:  "It really depends on what you're comparing it to and where your priorities lie. Power has to be generated somewhere and the cheapest option will always be the one people want to use the most to run their factories and heat their homes. Even taking into account heavy government subsidizing, green energy is economic suicide if you want to use it to meet peak demand because of the huge daily fluctuation(http://www.eia.gov/todayinenergy/detail.cfm?id=12711) in demand and intermittent power generation periods (cloudy days and days with little wind).
+
+So what do we use to generate power? Because rolling brownouts are certainly bad and so are astronomically high electricity prices. Traditionally, coal has been the go to source for generating the power we need when we need it, and I'm guessing you consider coal pretty bad as well. Natural gas releases less than 60%(http://www.eia.gov/tools/faqs/faq.cfm?id=74&amp;t=11) of the carbon dioxide coal does for the same amount of energy. In 2012, the US saw it's lowest CO2 output in 20 years(http://green.blogs.nytimes.com/2012/08/17/a-20-year-low-in-u-s-carbon-emissions/) thanks largely to natural gas (keep in mind that in the same time frame the US population grew by 57 million people.) So in that regard, fracking has done a lot of good.
+
+On to the the \"human health\" side of the argument:
+
+Your sources show a pretty heavy bias and often an omission of facts. For example, they're quick to point out how much contaminated water is used in fracking but they omit how the vast majority of it stays locked away from groundwater by a massive sheet of rock. The Guardian for example, repeatedly fails to specify how much groundwater returns to the surface, instead using the descriptor \"much\".
+
+The one major concern I've seen with fracking that isn't anecdotal evidence and is inherent to fracking (as opposed to the bulk of The Atlantic article, that focuses primarily on problems that people would face living next to pretty much *any* power generation facility) is that in some cases the local water treatment plant isn't doing a good enough job cleaning the waste water that returns to the surface. Assuming that's a problem that can't be fixed at the water treatment plant (which I highly doubt) then is that enough of an issue to cause us to switch back to coal and all of it's environmental/health issues? Because really that's our only major option right now.
+
+Unless you want to change America's opinion on nuclear.",
+
+
+
+END COMMENTS FOR POSTING

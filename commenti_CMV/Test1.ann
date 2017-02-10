@@ -1,0 +1,273 @@
+T1	MajorClaim 19 74	CMV: Bernie Sanders' energy policy is based in fantasy.
+T2	Evidential 182 191	obviously
+A1	POS T2 adjconcurrence
+T3	Premise 204 279	Those methods accounted for **85% of all our generated electricity in 2014*
+A2	Stance T3 for
+T4	Premise 354 422	**Those methods accounted for about 6% of all generated electricity.
+T5	Premise 442 587	all the methods that Sanders favors are very geographically dependent and require grid-scale energy storage for which we have no viable solutions
+R1	linked-support Arg1:T4 Arg2:T3	
+R2	supports-definitional Arg1:T3 Arg2:T1	
+R3	supports-definitional Arg1:T5 Arg2:T1	
+T6	Claim 1067 1180	He would maybe have to concede (at least in the short to medium term) on natural gas and nuclear (like you said).
+T7	Claim 903 1066	It is definitely not physically impossible for you to at least achieve close to what Sanders hopes for in 20 years (if he started in November after taking office).
+R4	concession Arg1:T6 Arg2:T7	
+T8	Modal 909 919	definitely
+A3	POS T8 advpronouncement
+T9	Evidential 935 945	impossible
+A4	POS T9 advcounterexpectancy
+T10	Premise 1184 1264	RE technologies are getting cheaper and better all the time, at an amazing rate.
+T11	Premise 1265 1351	The cost would obviously be substantial but not as bad as many skeptics claim it would
+R5	concession Arg1:T11 Arg2:T10	
+R6	supports-causal Arg1:T10 Arg2:T7	
+T12	MajorClaim 2165 2263	it is political fantasy, but everything that is needed to physically achieve his goal is available
+T13	Claim 1451 1533	The only reason it is fantasy is because of the political climate in your country.
+R7	supports-definitional Arg1:T13 Arg2:T12	
+R8	supports-definitional Arg1:T7 Arg2:T12	
+T14	Claim 1590 1650	Your original post is skeptical about the USA's capabilities
+T15	Premise 1743 1819	I think the latter is a much more valid reason to not believe it would work.
+R9	attacks-causal Arg1:T15 Arg2:T14	
+T16	MajorClaim 2354 2404	Attaining 50% renewables in 20 years is impossible
+T17	Evidential 2394 2404	impossible
+A5	POS T17 advpronouncement
+T18	Premise 2439 2642	work closely with a lot of scientists that are working on batteries and it would take a miracle for someone to develop the technology and manufacturing methods for cost-competitive batteries in that time
+T19	Premise 2661 2740	we would need to start laying the groundwork TODAY for the next generation grid
+T20	Modal 2670 2674	need
+R10	supports-causal Arg1:T18 Arg2:T16	
+T21	Premise 2745 2872	that would require convincing Congress to invest trillions into a renewable energy project that depends on a scientific miracle
+T22	Premise 2912 3070	energy bills for nearly every American will skyrocket to the point where low-income families are spending nearly half of their after-tax income on electricity
+T23	Premise 2878 2906	even if this miracle happens
+R12	concession Arg1:T23 Arg2:T22	
+R11	linked-support Arg1:T21 Arg2:T19	
+R13	supports-causal Arg1:T19 Arg2:T16	
+R14	supports-causal Arg1:T22 Arg2:T16	
+T24	MajorClaim 3565 3654	I agree, we need energy storage before we can replace baseload generation with renewables
+T25	Modal 3577 3581	need
+A6	POS T25 verbconcurrence
+T26	Premise 3908 4007	The thing about these methods of energy production is that they are content. Wind and solar are not
+T27	Claim 4009 4067	We will need some ability for storage which we do not have
+R15	supports-causal Arg1:T26 Arg2:T27	
+T28	Evidential 4017 4021	need
+A7	POS T28 verbpronouncement
+T29	Claim 4069 4111	We are also far more limited on production
+T30	Premise 4120 4329	it takes far more time to produce all the wind mills or solar panels to be the equivalent of a nuclear or coal plant and we need to mine up the rare earth metals required to make wind turbines and solar panels
+R16	supports-causal Arg1:T30 Arg2:T29	
+T31	Claim 4938 4965	Not to mention the job loss
+T32	Premise 4969 5083	have a nuclear power plant near me that employs quite a few people in my otherwise poor economic area, for example
+R17	supports-mereorogical Arg1:T32 Arg2:T31	
+T33	Claim 4688 4747	t would be myopic to ignore the resulting methane emissions
+T34	Premise 4752 4789	methane is a far worse greenhouse gas
+R18	supports-termination_setting_up Arg1:T34 Arg2:T33	
+T35	Claim 4635 4685	Whilst fracking may reduce CO2 emissions over coal
+R19	concession Arg1:T35 Arg2:T33	
+T36	Evidential 6196 6200	show
+A8	POS T36 verbendorsement
+T37	Claim 6107 6162	It's only fantasy if you take it on a short time scale.
+T38	Premise 6163 6257	Quotes such as this from Sanders show that he's approaching these issues as a long term crisis
+R20	supports-definitional Arg1:T38 Arg2:T37	
+T39	Premise 6266 6563	The scientific community is telling us that if we do not address the global crisis of climate change, transform our energy system away from fossil fuel to sustainable energy, the planet that we're going to be leaving our kids and our grandchildren may well not be habitable. That is a major crisis
+R21	supports-definitional Arg1:T39 Arg2:T38	
+T40	Claim 5184 5285	that quote doesn't give any indication as to how quickly he hopes this transformation will take place
+R22	attacks-definitional Arg1:T40 Arg2:T38	
+T41	Premise 5300 5421	he has called for a ban on fracking and has stated he will not renew nuclear permits which are renewed on a 20 year basis
+T42	Premise 5423 5502	That means in 20 years we will have eliminated nearly 50% of current generation
+R23	linked-support Arg1:T41 Arg2:T42	
+T43	Claim 5537 5657	ts a heavy-handed takeover that will inevitably lead to a rise in coal generation which is by far the worst of the three
+R24	supports-termination_setting_up Arg1:T42 Arg2:T43	
+T44	Claim 5662 5759	I think anyone who is serious about reducing our emissions should embrace natural gas and nuclear
+T45	Premise 5793 5878	because, without grid-scale storage, they are the only realistic alternatives to coal
+R25	supports-alternatives Arg1:T45 Arg2:T44	
+T46	MajorClaim 5880 6013	I view Bernie's energy policy as a black-and-white political maneuver rather than a serious attempt at solving a complicated problem.
+R26	supports-definitional Arg1:T44 Arg2:T46	
+T47	Claim 7138 7150	"That's true
+T48	MajorClaim 7500 7677	Remember that part of this is based in German government as a whole and their idea of a welfare state, not just that their methods of energy production/import are more expensive
+T49	Claim 7156 7229	they import natural gas from Russia which also adds to the cost of energy
+T50	MajorClaim 7231 7324	But at the same time renewables are considerably more expensive than fossil fuels and nuclear
+R27	concession Arg1:T47 Arg2:T50	
+T51	Claim 7767 7906	I don't know of any countries with energy sectors as large as the US which are producing anywhere near 50% of their energy from renewables.
+T52	Claim 7907 8064	The closest one that doesn't rely heavily on geographic sources is probably Germany but they are only at 25% and they rely on Norway for pumped hydro storage
+T53	Claim 8071 8141	Germans pay about 3.5 times as much for electricity as we do in the US
+T54	Claim 8144 8260	ouple that with the fact that low-income families in the US spend about 23% of their after-tax income on electricity
+T55	Claim 8266 8371	t becomes clear that what has worked for Germany will not work in the US without severely taxing the poor
+R28	linked-support Arg1:T53 Arg2:T54	
+R29	supports-causal Arg1:T54 Arg2:T55	
+T56	Evidential 8614 8617	See
+A9	POS T56 verbendorsement
+T57	Modal 8729 8733	Sure
+A10	POS T57 advconcessive
+T58	Claim 8735 8813	some forms of power can fluctuate a little or require particular geographies -
+T59	Claim 8814 8855	but that doesn't mean they are not viable
+R30	concession Arg1:T59 Arg2:T58	
+T60	Claim 8517 8612	There are numerous countries in the world that get the majority of their power from renewables.
+T61	Premise 8614 8722	See here(https://en.m.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources)
+R31	supports-complex Arg1:T61 Arg2:T60	
+T62	Claim 8860 8992	Making our grid more reliable to handle fluctuating output and demand from different regions is a good idea regardless of the source
+T63	Claim 9080 9129	setting audacious goals in this context is *fine*
+T64	Claim 9627 9720	you can only dam a river so often because you need a lot of water pressure to run the turbine
+T65	Premise 9722 9807	Its the same reason you can't put a wind turbine directly behind another wind turbine
+R32	supports-analogy Arg1:T65 Arg2:T64	
+T66	Claim 9864 9916	here are really only so many places you can put dams
+T67	Claim 9812 9861	even though it looks like there are TONS of river
+R33	concession Arg1:T67 Arg2:T66	
+R34	supports-causal Arg1:T64 Arg2:T66	
+T68	Premise 9927 10008	building a dam just for the purpose of electricity is not remotely cost-effective
+T69	Claim 10136 10246	building more dams solely for the purpose of power generation would not be a smart way to approach the problem
+R35	supports-termination_setting_up Arg1:T68 Arg2:T69	
+T70	Claim 9318 9397	Any sizable dam is going to flood a large area upstream as it fills to capacity
+T71	Claim 9440 9504	people don't like having their property seized by eminent domain
+R36	linked-support Arg1:T70 Arg2:T71	
+R37	supports-definitional Arg1:T71 Arg2:T69	
+R38	supports-termination_setting_up Arg1:T71 Arg2:T69	
+T72	Evidential 10435 10442	looking
+A11	POS T72 verbendorsement
+T73	Claim 10466 10498	makes me skeptical of this claim
+T74	Claim 10500 10583	although I admittedly don't really understand the logistics of hydroelectric power.
+R39	concession Arg1:T74 Arg2:T73	
+T75	Claim 11021 11062	Building more dams isn't really an option
+T76	Premise 11071 11103	the country already has too many
+R40	supports-causal Arg1:T76 Arg2:T75	
+T77	Premise 11108 11165	the efficiency of hydropower is already pretty much maxed
+T78	Claim 11174 11232	ncreasing output from existing dams isn't an option either
+R41	supports-causal Arg1:T77 Arg2:T78	
+T79	Claim 11328 11387	US has already pretty much maximized our capacity for hydro
+T80	Claim 11391 11421	Do you have a source for this?
+R42	simple-attack Arg1:T80 Arg2:T79	
+T81	Evidential 11405 11411	source
+A12	POS T81 advcounterexpectancy
+T82	Evidential 11829 11837	evidence
+A13	POS T82 nounpronouncement
+T83	Claim 12214 12262	And his policy really isn't a long-term solution
+T84	Premise 12271 12389	through a ban on fracking and refusal to renew nuclear permits he plans to phase out 50% of our generation in 20 years
+R43	supports-definitional Arg1:T84 Arg2:T83	
+T85	Modal 12391 12400	Obviously
+A14	POS T85 advconcessive
+T86	Claim 12451 12493	you cannot tell me his approach is gradual
+T87	Claim 12391 12446	Obviously he can only be president for 8 of those years
+R44	concession Arg1:T87 Arg2:T86	
+T88	Claim 11951 11992	You simply cannot use a lot of renewables
+T89	Premise 12000 12049	tend to produce energy at relatively random times
+R45	supports-causal Arg1:T89 Arg2:T88	
+T90	Claim 12055 12078	meet the energy demands
+T91	Premise 12094 12154	without being able to store some of the energy for later use
+R46	supports-causal Arg1:T91 Arg2:T90	
+T92	Claim 12745 12793	It's a long-term goal, and a very achievable one
+T93	Premise 12795 12841	Renewables many generate just 6% of our energy
+T94	Premise 12847 12977	there are plenty of developed Western countries already doing way better(https://en.wikipedia.org/wiki/Renewable_energy_in_Norway)
+R47	concession Arg1:T93 Arg2:T94	
+R48	supports-analogy Arg1:T94 Arg2:T92	
+T95	Claim 14276 14321	I personally disagree with him about nuclear.
+T96	Claim 14322 14354	I would prefer renewable sources
+T97	Claim 14360 14440	in the short term I'd still love to see nuclear plants replacing coal/gas plants
+R49	concession Arg1:T97 Arg2:T96	
+T98	Claim 12997 13065	I'm not sure there's much evidence that grid-scale storage is needed
+T99	Premise 13067 13145	A lot of renewable methods of generation are somewhat geographically dependent
+T100	Premise 13147 13218	but there are many different kinds and they serve different geographies
+R50	concession Arg1:T99 Arg2:T100	
+R51	attacks-causal Arg1:T99 Arg2:T98	
+T101	Evidential 13023 13031	evidence
+A15	POS T101 nounpronouncement
+T102	Claim 13564 13646	what location in the US is there that couldn't possibly accommodate *any* of those
+T103	Modal 13602 13610	couldn't
+A16	POS T103 verbpronouncement
+T104	Premise 13324 13340	they have solar.
+T105	Premise 13454 13501	there's hydro, wind, solar, tidal, biomass, etc
+T106	Premise 13229 13309	tidal power is going to be worthless to Nevada unless there's grid-scale storage
+T107	Premise 13351 13448	geothermal isn't going to be as useful in many places in the US as it is in (for example) Iceland
+R52	concession Arg1:T106 Arg2:T104	
+R53	concession Arg1:T107 Arg2:T105	
+T108	Premise 13660 13708	there are already plans in place for every state
+T109	Premise 13710 13806	For example, you can check out the map here: http://thesolutionsproject.org/#page-fifty-states (
+R54	supports-mereorogical Arg1:T109 Arg2:T108	
+R55	supports-mereorogical Arg1:T104 Arg2:T100	
+R56	supports-mereorogical Arg1:T105 Arg2:T100	
+R57	supports-causal Arg1:T108 Arg2:T102	
+T110	Claim 17518 17692	If he wanted to promote renewables while allowing nuclear and natural gas to serve as a bridge from coal then his plan would be realistic. But that's not what he is proposing
+T111	Premise 17795 17845	His goal is achievable but that would take decades
+T112	Claim 17847 17905	If he plans to do this in 4 years then yes, It's a fantasy
+R58	supports-causal Arg1:T111 Arg2:T112	
+T113	Claim 14592 14638	None of those things are inherently impossible
+T114	Claim 14640 14716	It is possible to replace the entirety of our power infrastructure over time
+T115	Premise 14646 14654	possible
+A17	POS T115 adjendorsement
+T116	Claim 14864 14980	a lot of our power sources are there not because they are the best choice, but because we already have them in place
+T117	Claim 15444 15608	Money spent in the 1880's is irrelevant to the decision on whether or not we should invest in a coal plant or a solar plant now, but human psychology begs to differ
+T118	Evidential 15816 15821	clear
+A18	POS T118 adjendorsement
+T119	Premise 15804 15821	The math is clear
+T120	Claim 15953 16121	people are still focused on all that current stuff and worried about losing all that past investment rather than making the decision based on what's best going forward.
+T121	Claim 15823 15947	it doesn't matter* that we spent centuries investing in coal, it's not a waste as we already got our money's worth out of it
+R59	concession Arg1:T121 Arg2:T120	
+R60	supports-complex Arg1:T119 Arg2:T121	
+T122	Claim 16337 16441	Building those plants and developing grid-scale energy storage is where we need to be putting our money.
+T123	Modal 16412 16416	need
+A19	POS T123 verbpronouncement
+T124	Claim 17083 17154	Granted, I'm not a fan of a lot of the details in Mr. Sanders' policies
+T125	Claim 17160 17308	I think that we should be investing much more heavily in modernizing our infrastructure, especially in terms of wind, solar, geothermal, and biomass
+R61	concession Arg1:T124 Arg2:T125	
+T126	Claim 16947 17078	We shouldn't let ourselves be bogged down by the fact that solar and wind power weren't options when our grid was first planned out
+T127	Premise 16442 16511	To not invest in those things is pure folly that will leave us behind
+R62	supports-termination_setting_up Arg1:T127 Arg2:T122	
+T128	Premise 16516 16783	It's telling that in developing nations renewables are the overwhelming majority of new construction. They don't have the path dependency or the centuries of investment in coal and oil infrastructure, but they aren't developing that infrastructure to the same degree.
+T129	Evidential 16784 16804	That makes it clear,
+A20	POS T129 adjpronouncement
+T130	Claim 16805 16945	if you clear away the natural mental hang-ups of mankind renewables already make more sense than \"traditional\" sources of power generation
+R63	supports-causal Arg1:T128 Arg2:T130	
+T131	Claim 18055 18127	While I don't like Bernie and don't agree with almost everything he says
+T132	Claim 18130 18168	'll play devil's advocate in this case
+R64	concession Arg1:T131 Arg2:T132	
+T133	Claim 18173 18307	As of today, you are right, it's fantasy. We simply don't have the means to generate enough electricity through the means he proposed.
+T134	Claim 18308 18358	That doesn't mean it will always be fantasy though
+R65	concession Arg1:T133 Arg2:T134	
+T135	Premise 18651 18870	Coal and oil well eventually run out. When they do, it will suddenly be cheaper to invest in wind, solar, etc. And those technologies will improve incredibly quickly, allowing them to provide all the electricity we need
+T136	Modal 18866 18870	need
+A21	POS T136 verbconcurrence
+T137	Claim 18970 19060	Going back to nuclear (and climbing onto my soapbox), that's honestly the best way forward
+T138	Premise 19062 19130	It's clean, incredibly efficient, and we already have the technology
+R66	supports-termination_setting_up Arg1:T138 Arg2:T137	
+T139	Claim 19505 19543	That's what we should be moving toward
+T140	Premise 19447 19503	nuclear energy provides a ludicrous amount of safe power
+R67	supports-termination_setting_up Arg1:T140 Arg2:T139	
+T141	Evidential 19520 19526	should
+A22	POS T141 verbpronouncement
+T142	Claim 19821 20034	We should not stick to our old ways just because that's what we know. We shouldn't abstain from trying to make changes because someone who's satisfied with the way things are says it will be too hard to figure out
+T143	Modal 19824 19830	should
+A23	POS T143 verbendorsement
+T144	Claim 20471 20591	I think the culture of it now is to show the ideal end goal they're promising to work for rather than a concrete promise
+T145	Claim 21233 21314	Personally I believe they're somewhat necessary for the service based New Economy
+T146	Claim 21319 21353	politically... he's a Jimmy Carter
+R68	concession Arg1:T145 Arg2:T146	
+T147	Modal 21271 21280	necessary
+A24	POS T147 adjpronouncement
+T148	Claim 21743 21778	I know this is already somewhat old
+T149	Claim 21783 21853	I think there's a point to be made in that this is the election period
+R69	concession Arg1:T148 Arg2:T149	
+T150	Claim 22165 22180	We need results
+T151	Premise 22185 22227	Bernie's plan is incompatible with science
+R70	supports-termination_setting_up Arg1:T151 Arg2:T150	
+T152	Evidential 22168 22172	need
+A25	POS T152 verbpronouncement
+T153	Evidential 23957 23960	can
+A26	POS T153 verbendorsement
+T154	Modal 24103 24108	could
+A27	POS T154 verbendorsement
+T155	Claim 23953 24060;24061 24062;24063 24156	you can use passive solar to heat your homes and you can build homes so they have passive cooling as well 
+ 
+ there is also energy conservation which could reduce demand and make it easier for renewables
+T156	Claim 23953 24058	you can use passive solar to heat your homes and you can build homes so they have passive cooling as well
+T157	Claim 24063 24156	there is also energy conservation which could reduce demand and make it easier for renewables
+T158	Premise 22970 23100	"well for batteries check this https://www.youtube.com/watch?v=EvceQ0T80Zc&amp;list=LL3B2phxd3Zw2h5Q3ZKo5CxA&amp;index=1 at 3 mins
+R71	supports-complex Arg1:T158 Arg2:T156	
+R72	supports-complex Arg1:T158 Arg2:T157	
+T159	Claim 24368 24451	the lack of a viable and universal solution to energy storage is pretty unambiguous
+T160	Premise 24456 24561	Batteries are definitely not cost-competitive at the moment and progress on that front has been very slow
+R73	supports-mereorogical Arg1:T160 Arg2:T159	
+T161	Premise 24778 24952	Outside of batteries, pretty much all storage mechanisms that are in use, such as pumped hydro, are geographically-dependent and cannot be implemented in many parts of the US
+R74	supports-mereorogical Arg1:T161 Arg2:T159	
+T162	Claim 26371 26411	We don't need grid-scale energy storage.
+T163	Premise 26413 26475	Just a grid that can switch among available sources on the fly
+R75	supports-causal Arg1:T163 Arg2:T162	
+T164	Modal 26380 26384	need
+A28	POS T164 verbendorsement
+T165	Claim 26586 26673	it's not terribly useful to judge whether or not it's possible to get to the benchmarks
+T166	Claim 26676 26780	What we need to figure-out is whether we're better off trying to get there versus deciding that we can't
+T167	Modal 26684 26688	need
+A29	POS T167 verbendorsement

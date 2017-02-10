@@ -1,0 +1,28 @@
+T1	MajorClaim 19 183	If you benefit from resource extraction based economy then you cannot condemn fracking. If you want to protest fracking the true way to protest is to not consume...
+T2	Claim 228 385	"If you actually look at the process from an engineering point of view, fracking is the most efficient way to sustain our daily consumption and travel habits
+T3	Premise 390 591	There really is no other more efficient process with less of an impact to extract oil or natural gas and alternative energies such as wind and solar are not going to immediately fulfill our daily needs
+R1	supports-definitional Arg1:T3 Arg2:T2	
+T4	Claim 853 933	The true way to protest is not to consume goods being provided by fracture wells
+T5	Claim 1339 1501	There is a third option (consume and accept fracking, don't consume and reject fracking) of consuming, rejecting fracking, and advocating for other energy sources
+T6	Premise 1235 1335	Are you aware of the issues people have with fracking? Of groundwater contamination and earthquakes?
+R2	supports-termination_setting_up Arg1:T6 Arg2:T5	
+T7	Premise 2121 2151	slavery is an intolerable evil
+T8	Claim 2156 2183	Therefore I condemn slavery
+R3	supports-termination_setting_up Arg1:T7 Arg2:T8	
+T9	Claim 2764 2823	I have no real knowledge of fracking's environmental impact
+T10	Claim 2829 3046	if it happens to be horrible it is appropriate to oppose it without going \"off-grid\" or otherwise taking extreme efforts to avoid using products made with energy that directly or indirectly adds to frackers' profits
+R4	concession Arg1:T9 Arg2:T10	
+T11	Claim 2359 2445	Stopping eating chocolate will not end the slavery - positive action will end slavery.
+T12	Premise 2447 2560	In the 1800s going naked was not the answer to ending slavery - political means were the answer to ending slavery
+R5	supports-mereorogical Arg1:T12 Arg2:T11	
+R6	supports-analogy Arg1:T11 Arg2:T10	
+T13	Claim 3222 3268	I disagree with your 'stop consuming' argument
+T14	Modal 3294 3303	of course
+A1	POS T14 advconcessive
+T15	Claim 3270 3378	To some extend you are, of course, correct that environmentally conscious people should cut down consumption
+T16	Claim 3385 3420	would worry about taking it too far
+R7	concession Arg1:T15 Arg2:T16	
+T17	Modal 3351 3357	should
+A2	POS T17 verbentertain
+T18	Premise 3606 3710	I suppose my argument boils down to: What if, by consuming resources, I convinced others to consume less
+R8	supports-causal Arg1:T18 Arg2:T16	

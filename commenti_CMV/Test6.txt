@@ -1,0 +1,60 @@
+POST: 6
+
+TITLE: "If you benefit from resource extraction based economy then you cannot condemn fracking. If you want to protest fracking the true way to protest is to not consume...",
+
+AUTHOR:  "islalobo",
+
+BEGIN POSTING: "If you actually look at the process from an engineering point of view, fracking is the most efficient way to sustain our daily consumption and travel habits.
+
+There really is no other more efficient process with less of an impact to extract oil or natural gas and alternative energies such as wind and solar are not going to immediately fulfill our daily needs.
+
+Drill a well that needs agitation every 5 to 10 years, or drill one that's good for 40 years. Fracking isn't new, it's been around since the 60's. Horizontal drilling coupled with fracking is what's grabbing attention, because its so god damn effective.
+
+The true way to protest is not to consume goods being provided by fracture wells. ",
+END POSTING
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+REFERS TO: "t1_cdt8dqr",
+COMMENT_ID: "t1_cdtgkf9",
+
+
+COMMENT_ID: "t1_cdt8dqr",
+AUTHOR:  "Nepene",
+REFERS TO: "t3_1s246s",
+TEXT:  "http://www.bbc.co.uk/news/uk-144324017
+
+http://www.kgs.ku.edu/PRS/Fracturing/Frac_Paper_SPE_152596.pdf
+
+Are you aware of the issues people have with fracking? Of groundwater contamination and earthquakes?
+
+There is a third option (consume and accept fracking, don't consume and reject fracking) of consuming, rejecting fracking, and advocating for other energy sources.",
+
+
+COMMENT_ID: "t1_cdtar3f",
+AUTHOR:  "GnosticGnome",
+REFERS TO: "t3_1s246s",
+TEXT:  "Slavery is evil whereas chocolate is delicious.  There is a good chance that any given chocolate bar is made from cacao beans harvested by slaves.  If I buy only fair trade chocolate I am paying more money and yet may still be consuming the product of slave labor (the labels are imperfect).  Even if the labels were made perfect, cacao (like fossil fules) is fungible - my purchase of fair-trade chocolate nevertheless contributes to the price of chocolate and thereby profits the slave-owners.  Even if this were not true, slavery is an intolerable evil.
+
+Therefore I condemn slavery.  I do not know if military action, scolding, stealing slaves, or making foreign campaign contributions is the best answer - but slavery is evil.  It is right to condemn it.  Stopping eating chocolate will not end the slavery - positive action will end slavery.  In the 1800s going naked was not the answer to ending slavery - political means were the answer to ending slavery.  One need not call the cotton-wearing abolitionists hypocrites and one need not call the chocolate-eating abolitionists hypocrites.  Rather we should call them heroes if they take successful action.
+
+I have no real knowledge of fracking's environmental impact, but if it happens to be horrible it is appropriate to oppose it without going \"off-grid\" or otherwise taking extreme efforts to avoid using products made with energy that directly or indirectly adds to frackers' profits.",
+
+
+COMMENT_ID: "t1_cdt9vvx",
+AUTHOR:  "dodinator",
+REFERS TO: "t3_1s246s",
+TEXT:  "Now I'm still undecided on Fracking but I would call myself an environmentalist and I disagree with your 'stop consuming' argument. To some extend you are, of course, correct that environmentally conscious people should cut down consumption but I would worry about taking it too far. If every environmentalist packed up and moved into the woods who would be around to be convince others, lobby governments and businesses or buy more environmentally friendly products? I suppose my argument boils down to: What if, by consuming resources, I convinced others to consume less? ",
+
+
+COMMENT_ID: "t1_cdtd6to",
+AUTHOR:  "MageZero",
+REFERS TO: "t3_1s246s",
+TEXT:  "So are you saying there is no downside to fracking?",
+
+
+
+END COMMENTS FOR POSTING

@@ -1,0 +1,44 @@
+T1	Claim 105 243	After reading many sources and from having disscussions with my peers I believe fracking is bad for both human health and the environment.
+T2	Premise 262 296;297 298;299 392;393 394;395 487;488 489;490 574	http://www.dangersoffracking.com/
+ 
+ http://www.theatlantic.com/health/archive/2013/10/how-fracking-is-bad-for-our-bodies/280384/
+ 
+ http://www.theguardian.com/environment/2013/oct/04/fracking-us-toxic-waste-water-washington
+ 
+ http://www.bloomberg.com/news/2014-01-04/study-shows-fracking-is-bad-for-babies.html
+T3	Evidential 252 258	Souces
+A1	POS T3 nounendorsement
+T4	Claim 2712 2813	It is absolutely impossible for fracking water to pollute the environment during the fracking process
+T5	Evidential 2729 2739	impossible
+A2	POS T5 adjpronouncement
+T6	Modal 2718 2728	absolutely
+A3	POS T6 adjpronouncement
+T7	Premise 2816 3220	he water shelf is only a couple hundred feet under the ground. Fracking occurs at over 10,000 ft underground by cracking open shale and retrieving the natural gas out of the pores in the shale. There are many, many layers of rock between this and the water shelf. It is impossible for anything at that depth to miraculously travel upward through these layers about 2 miles and leech into the water supply
+R1	supports-causal Arg1:T7 Arg2:T4	
+T8	Claim 3973 4024	So why all the concern? It's due to surface spills.
+T9	Premise 4025 4391	When fracking, a fluid that is usually a mix of water, sand and chemicals is pumped down the pipe to help cool the drill bit and crack open the pores in the shale. This stuff is not environmentally friendly and needs to be retrieved from the pipe once the fracking is completed. During this retrieval, sometimes the fluid spills onto the ground upon exiting the pipe
+R2	supports-causal Arg1:T9 Arg2:T8	
+T10	MajorClaim 4467 4580	The point of this long winded post is that fracking in and of itself is a very useful tool that is perfectly safe
+R3	supports-definitional Arg1:T4 Arg2:T10	
+T11	Claim 6432 6500	Your sources show a pretty heavy bias and often an omission of facts
+T12	Premise 6502 6693	For example, they're quick to point out how much contaminated water is used in fracking but they omit how the vast majority of it stays locked away from groundwater by a massive sheet of rock
+T13	Premise 6695 6830	The Guardian for example, repeatedly fails to specify how much groundwater returns to the surface, instead using the descriptor \"much\
+R4	supports-mereorogical Arg1:T13 Arg2:T12	
+R5	supports-mereorogical Arg1:T12 Arg2:T11	
+T14	Claim 7349 7453	s that enough of an issue to cause us to switch back to coal and all of it's environmental/health issues
+T15	Premise 7455 7508	Because really that's our only major option right now
+R6	supports-alternatives Arg1:T15 Arg2:T14	
+T16	Claim 5368 5442	green energy is economic suicide if you want to use it to meet peak demand
+T17	Premise 5443 5626	because of the huge daily fluctuation(http://www.eia.gov/todayinenergy/detail.cfm?id=12711) in demand and intermittent power generation periods (cloudy days and days with little wind)
+R7	supports-causal Arg1:T17 Arg2:T16	
+T18	Premise 5676 5762	rolling brownouts are certainly bad and so are astronomically high electricity prices.
+T19	Evidential 5698 5707	certainly
+A4	POS T19 advconcurrence
+T20	Premise 5778 5912	coal has been the go to source for generating the power we need when we need it, and I'm guessing you consider coal pretty bad as well
+T21	Modal 5837 5841	need
+A5	POS T21 verbconcurrence
+T22	Premise 5914 6064	Natural gas releases less than 60%(http://www.eia.gov/tools/faqs/faq.cfm?id=74&amp;t=11) of the carbon dioxide coal does for the same amount of energy
+T23	Premise 6067 6320	n 2012, the US saw it's lowest CO2 output in 20 years(http://green.blogs.nytimes.com/2012/08/17/a-20-year-low-in-u-s-carbon-emissions/) thanks largely to natural gas (keep in mind that in the same time frame the US population grew by 57 million people.)
+R8	linked-support Arg1:T22 Arg2:T23	
+T24	Claim 6340 6371	fracking has done a lot of good
+R9	supports-causal Arg1:T23 Arg2:T24	

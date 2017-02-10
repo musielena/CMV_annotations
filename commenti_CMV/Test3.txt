@@ -1,0 +1,152 @@
+POST: 3
+
+TITLE: "CMV: I think the Keystone XL Pipeline should be built for environmental reasons, and protesters are fighting against their own interests.",
+
+AUTHOR:  "Kraz_I",
+
+BEGIN POSTING: 
+"The Keystone XL pipeline is an oil pipeline that is intended to connect the Alberta tar sands to refineries in Texas. Tar sands are one of the least environmentally friendly forms of petroleum because it takes a lot of energy to refine them into light hydrocarbons, like gasoline, and refining them releases a lot of greenhouse gasses and air pollutants. The pipeline is intended to go through a lot of protected wilderness and protected lands, and there is always the chance of breaks and spillage from the pipeline. Opponents of the pipeline claim that if we don't build it, then the Alberta tar sands won't get produced. 
+
+However....
+
+As it currently stands, the Alberta tar sands are already being drilled and produced, but instead of being shipped by pipeline, most of them are being shipped by train. This will not actually slow down drilling, but instead overloads the train lines, which are more environmentally dangerous than pipelines. For one thing, it takes a lot more energy to ship oil by train than by pipe. For another, trains are much more likely to cause oil spills, fires, and loss of life than pipelines. For instance, the Lac-Megantic train derailment(http://en.wikipedia.org/wiki/Lac-M%C3%A9gantic_derailment), last year in Quebec, carrying Bakken crude oil, in which 72 train cars derailed, spilling over 2 million gallons of oil, killing 42 people and destroying half of a town. A pipeline doesn't carry nearly this high a risk.
+
+In addition, a lot of Alberta tar sands crude is being shipped overseas for processing in places like China, where the environmental regulations in the refining process may be much lower, and USA and Canada don't even get the benefit of using the petroleum. Sending the petroleum to Texas for refining would be a benefit to the US economy because we would actually keep most of it. 
+END POSITNG
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+COMMENT_ID: "t1_ch8x1gr",
+AUTHOR: "Kraz_I", 
+REFERS TO: "t1_ch8w9o4",
+TEXT:  "[Quote] You're stuck with a false dichotomy. You assume the only two options are the us ships by rail for refining in Texas and ships by pipeline for refining in texas. Why are we taking responsibility for refining some of the dirtiest oil on the planet in the us at all? And my understanding is that much of the refined products can be shipped abroad -- giving the us no cheaper gas prices or not any more oil independence.
+
+I never said that. What I meant when I said shipped by train is that ports in western Canada, without the ability to refine them themselves end up shipping the crude oil overseas to be refined, probably in places with less environmental regulations. I'd rather see oil get refined in Texas or other American cities where the overall environmental impact is lower, than see more oil spills on the ocean, toxic waste dumped from Chinese refiners, or more air pollution than necessary.
+
+[Quote]Why doesn't the pipeline run east or west through Canada to a port city there?
+
+In addition to the reason I mentioned, the oil producers probably get a better price by selling it through Texas than they would by shipping unrefined crude overseas.
+
+[Quote]If it doesn't help Americans, why would we risk transporting such a thing in such huge volume through our \"nations breadbasket\"? And across many rivers and waterways?
+
+We already are. There are already hundreds if not thousands of smaller pipelines in the US, including the original Keystone pipeline (the Keystone XL pipeline follows a similar path, but carries a higher capacity). In addition, oil from the Bakken formation in North Dakota (the second leading oil producing state in the US), is causing overcapacity of freight trains in the midwest, meaning a lot of oil and grains that would otherwise be carried by trains are now carried by trucks, which are dozens of times less energy efficient than trains, which themselves are more dangerous and much less energy efficient than pipelines.  Oil spills from pipelines are a tragedy, but they are for the most part, cleanable, and not nearly as bad in either environmental damage or danger to human life as train derailments or tanker truck crashes.
+
+[Quote]And what about individual property rights? Farmers don't want this on their land. How can we take away their land rights to build something that could leak hundreds of thousands of gallons of dirty oil in their fields? 
+
+Yes, recent court rulings now allow private companies to use eminent domain to force landowners to sell for certain uses. I agree this is a tragedy, but that is in itself a separate issue. In any case, the government has used eminent domain to build infrastructure like roads, train tracks, and canals since the 1700s.
+
+[Quote]Other than a few oil companies, what part of America benefits from any of tar sands oil coming here? If the vast majority don't want it, why are lawmakers even considering it??
+
+What do Americans get from it?
+-tax revenue
+-billions of dollars worth of jobs, both temporary and permanent
+-a lot of the oil will be sold here, which may help to lower oil/gas prices",
+
+
+REFERS TO: "t1_ch8w9o4",
+COMMENT_ID: "t1_ch99l4g",
+
+
+COMMENT_ID: "t1_ch8w9o4",
+AUTHOR:  "funchy",
+REFERS TO: "t3_24ni6f",
+TEXT:  "You're stuck with a false dichotomy.  You assume the only two options are the us ships by rail for refining in Texas and ships by pipeline for refining in texas.    Why are we taking responsibility for refining some of the dirtiest oil on the planet in the us at all?  And my understanding is that much of the refined products can be shipped abroad -- giving the us no cheaper gas prices or not any more oil independence.
+
+Why doesn't the pipeline run east or west through Canada to a port city there? 
+
+If it doesn't help Americans, why would we risk transporting such a thing in such huge volume through our \"nations breadbasket\"?  And across many rivers and waterways?
+
+What about States rights?  Not all states are excited about the idea. How can the oil companies control the federal government in such a way the the fed tramples on states rights? 
+
+And what about individual property rights?   Farmers don't want this on their land.   How can we take away their land rights to build something that could leak hundreds of thousands of gallons of dirty oil in their fields?  Something that's going cause a big impact in the country's greenhouse gas emissions?   
+
+Other than a few oil companies,  what part of America benefits from any of tar sands oil coming here?  If the vast majority don't want it, why are lawmakers even considering it??",
+
+
+COMMENT_ID: "t1_ch922sp",
+AUTHOR:  "Kraz_I",
+REFERS TO: "t3_24ni6f",
+TEXT:  "What happened to the post that was here a few hours ago from a guy who actually knew what he was talking about? I was about to respond, but now I can't. I really do want someone to CMV, and he had a chance, but the post got deleted.",
+
+
+COMMENT_ID: "t1_ch9q0k0",
+AUTHOR:  "ChefBoyAreWeFucked",
+REFERS TO: "t1_ch9ph1v",
+TEXT:  "What?  Everything that crosses a national border is foreign.  Also, the keystone pipeline is NOT an overland pipeline, it is buried underground, and in some cases, it is routed through aquifers.",
+
+
+COMMENT_ID: "t1_ch9ph1v",
+AUTHOR:  "Kraz_I",
+REFERS TO: "t1_ch9oge1",
+TEXT:  "I would say anything that needs to be shipped by tanker over the ocean would qualify as \"foreign\". Ultimately, the biggest environmental risk comes from oil spills in the ocean. Over-land spills are generally local in damage and easier to clean. Ocean spills are catastrophic, so if for no other reason, we should try and source as much oil as possible from North America including Mexico. 
+
+There are other reasons I'd like to limit business with OPEC, but the focus of this thread is environmental reasons, not economic or moral.",
+
+
+COMMENT_ID: "t1_ch9oge1",
+AUTHOR:  "ChefBoyAreWeFucked",
+REFERS TO: "t3_24ni6f",
+TEXT:  "I am actually for the Keystone pipeline, but there needs to be a plan for the complete path of the pipeline.  Right now, the \"ideal\" path is still running through areas that would be harshly impacted by any leaks, which are inevitable.  Will the pipeline kill jobs?  Yes, jobs that shouldn't exist.  Will the pipeline create jobs?  In the short term, it will create a small number, in the long term, very few, but it will, on net, increase economic output in this country.
+
+That being said, for anyone who says the Keystone Pipeline will limit dependence on foreign oil, your definition of \"foreign\" is non-white, and you should go fuck yourself.  The Keystone Pipeline will reduce the cost of foreign oil -- Canada is foreign.  And dependence on foreign oil cannot be eliminated.  If we got 100% of our oil from Canada, and Iran shut off the Strait of Hormuz, our oil prices would still go up.",
+
+
+COMMENT_ID: "t1_ch8whj9",
+AUTHOR:  "Kraz_I",
+REFERS TO: "t1_ch8ux9t",
+TEXT:  "In addition, all the pipe to be used for the project and all or most land designated for its construction is already sourced and set aside, waiting for government approval. I live near one of the pipeyards that holds about one tenth of the total pipe needed for the pipeline, and that facility alone holds about 70 acres of stacked pipe.",
+
+
+COMMENT_ID: "t1_ch8ux9t",
+AUTHOR:  "A_Soporific",
+REFERS TO: "t1_ch8u997",
+TEXT:  "Isn't removing the need for the pipe utterly irrelevant to the construction of the pipe and fighting the pipe diverting resources away from other projects that would remove the need for the pipe?",
+
+
+COMMENT_ID: "t1_ch8wo2c",
+AUTHOR:  "Kraz_I",
+REFERS TO: "t1_ch8w2dz",
+TEXT:  "I'm a fan of directing tax revenue from energy companies toward sustainable energy. The thing is, we already have the technology where renewable energy COULD power most of the world, but the only problem is changing the infrastructure to allow for that would be massively expensive, and electricity costs would be much higher until battery technology and manufacture costs finally caught up with demand. 
+
+Not to mention, we still need hydrocarbons for plastic manufacture, other chemical manufacture and thousands of other reasons. 
+
+As far as taxing the pipeline to pay for renewable energy, that's not a good idea, since you only get tax a small percentage of the oil that way. Instead, it's better to tax the energy companies themselves, since they are the ones who actually own the oil from the moment it comes out of the ground, often until you buy it in the gas station. ",
+
+
+COMMENT_ID: "t1_ch8w2dz",
+AUTHOR:  "TeddyRoostervelt",
+REFERS TO: "t1_ch8u997",
+TEXT:  "what if we allowed the construction of the pipeline on condition that it be heavily taxed (but not so it becomes unprofitable) and independently safety regulated? Then these taxes could be spent on a research grant towards sustainable energy sources/technology. ",
+
+
+REFERS TO: "t1_ch8u997",
+COMMENT_ID: "t1_ch960zg",
+
+
+COMMENT_ID: "t1_ch8u997",
+AUTHOR:  "deleted",
+REFERS TO: "t3_24ni6f",
+TEXT:  "The best way to stop profit-motivated behaviour is to minimize the profit, which is exactly what blocking the pipeline from being built does. Building the pipeline may be better for the environment in the short term, but in the long term it is better to remove the need for the pipe.",
+
+
+COMMENT_ID: "t1_ch9qg5a",
+AUTHOR:  "krausyaoj",
+REFERS TO: "t3_24ni6f",
+TEXT:  "What is your source that trains are more environmentally dangerous than pipelines? From Are Pipelines Safer Than Railroads for Carrying Oil?(http://blogs.scientificamerican.com/observations/2013/07/10/are-pipelines-safer-than-railroads-for-carrying-oil/)
+
+[Quote] As the Association of American Railroads points out, the volume of oil spilled by railcars is “less than 1 percent of the total pipeline spills.” That’s 2,268 barrels spilled by the railroads between 2002 and 2012, compared to 474,441 barrels spilled by pipeline operators over the same span, according to the Association’s numbers.
+
+In addition, investment in rail transport provides more flexibility as the destination of the oil can be changed unlike a pipeline which makes a fixed connection to a destination. This allows changes to destination based on market conditions. The investment in rail infrasturure is also useful in transporting other goods. When oil production stops in the future from a particular source there will be no use for the oil pipelines connected from that source.",
+
+
+COMMENT_ID: "t1_ch9fajl",
+AUTHOR:  "rcglinsk",
+REFERS TO: "t3_24ni6f",
+TEXT:  "You are wrong about the very last part.  Almost all the refined oil products made in Houston are put on tankers and shipped overseas.  The net effect of the XL pipeline would a slight reduction in supply of oil products in US markets (as it would divert the oil away from the refineries in the great lakes area).  
+
+
+
+END COMMENTS FOR POSTING

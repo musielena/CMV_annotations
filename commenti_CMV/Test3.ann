@@ -1,0 +1,88 @@
+T1	MajorClaim 22 154	I think the Keystone XL Pipeline should be built for environmental reasons, and protesters are fighting against their own interests.
+T2	Modal 55 61	should
+A1	POS T2 verbpronouncement
+T3	Premise 1160 1217	takes a lot more energy to ship oil by train than by pipe
+T4	Premise 1232 1319	trains are much more likely to cause oil spills, fires, and loss of life than pipelines
+T5	Premise 1321 1598	For instance, the Lac-Megantic train derailment(http://en.wikipedia.org/wiki/Lac-M%C3%A9gantic_derailment), last year in Quebec, carrying Bakken crude oil, in which 72 train cars derailed, spilling over 2 million gallons of oil, killing 42 people and destroying half of a town.
+R1	supports-mereorogical Arg1:T5 Arg2:T4	
+R2	linked-support Arg1:T4 Arg2:T3	
+T6	Premise 1908 2030	Sending the petroleum to Texas for refining would be a benefit to the US economy because we would actually keep most of it
+R3	supports-termination_setting_up Arg1:T3 Arg2:T1	
+R4	supports-termination_setting_up Arg1:T6 Arg2:T1	
+T7	Claim 7815 7875	There are other reasons I'd like to limit business with OPEC
+T8	Claim 7881 7953	the focus of this thread is environmental reasons, not economic or moral
+R5	concession Arg1:T7 Arg2:T8	
+T9	MajorClaim 7727 7811	we should try and source as much oil as possible from North America including Mexico
+T10	Evidential 7730 7736	should
+A2	POS T10 verbpronouncement
+T11	Premise 7601 7647	Over-land spills are generally local in damage
+T12	Premise 7669 7698	Ocean spills are catastrophic
+R6	linked-support Arg1:T11 Arg2:T12	
+R7	supports-termination_setting_up Arg1:T12 Arg2:T9	
+T13	Claim 4685 4710	I agree this is a tragedy
+T14	Claim 4717 4750	hat is in itself a separate issue
+R8	concession Arg1:T13 Arg2:T14	
+T15	Premise 2650 2829	ports in western Canada, without the ability to refine them themselves end up shipping the crude oil overseas to be refined, probably in places with less environmental regulations
+T16	Claim 2831 2943	I'd rather see oil get refined in Texas or other American cities where the overall environmental impact is lower
+T17	Premise 2950 3062	see more oil spills on the ocean, toxic waste dumped from Chinese refiners, or more air pollution than necessary
+T18	Modal 2775 2783	probably
+A3	POS T18 advpronouncement
+R9	linked-support Arg1:T17 Arg2:T15	
+R10	supports-termination_setting_up Arg1:T15 Arg2:T16	
+T19	Claim 3195 3318	oil producers probably get a better price by selling it through Texas than they would by shipping unrefined crude overseas.
+T20	Modal 3209 3217	probably
+A4	POS T20 verbpronouncement
+T21	Claim 7421 7519	I would say anything that needs to be shipped by tanker over the ocean would qualify as \"foreign\
+T22	Claim 8541 8665	for anyone who says the Keystone Pipeline will limit dependence on foreign oil, your definition of \"foreign\" is non-white,
+R11	attacks-definitional Arg1:T21 Arg2:T22	
+T23	MajorClaim 8048 8087	I am actually for the Keystone pipeline
+T24	Claim 8093 8155	there needs to be a plan for the complete path of the pipeline
+R12	concession Arg1:T24 Arg2:T23	
+T25	Claim 8169 8284	the \"ideal\" path is still running through areas that would be harshly impacted by any leaks, which are inevitable
+R13	supports-termination_setting_up Arg1:T25 Arg2:T24	
+T26	Modal 8099 8104	needs
+A5	POS T26 verbpronouncement
+T27	Premise 8317 8348	Yes, jobs that shouldn't exist.
+T28	Modal 8332 8339	shouldn
+A6	POS T28 verbconcessive
+T29	Premise 8383 8458	n the short term, it will create a small number, in the long term, very few
+T30	Claim 8464 8521	it will, on net, increase economic output in this country
+R14	supports-causal Arg1:T29 Arg2:T30	
+R15	supports-termination_setting_up Arg1:T30 Arg2:T23	
+R16	supports-termination_setting_up Arg1:T27 Arg2:T23	
+T31	Claim 9042 9200	all the pipe to be used for the project and all or most land designated for its construction is already sourced and set aside, waiting for government approval
+T32	Premise 9202 9365	I live near one of the pipeyards that holds about one tenth of the total pipe needed for the pipeline, and that facility alone holds about 70 acres of stacked pipe
+R17	supports-mereorogical Arg1:T32 Arg2:T31	
+T33	Modal 9884 9889	COULD
+A7	POS T33 verbconcurrence
+T34	Modal 10163 10167	need
+A8	POS T34 verbconcurrence
+T35	Claim 9732 9815	I'm a fan of directing tax revenue from energy companies toward sustainable energy.
+T36	Claim 9830 9913	we already have the technology where renewable energy COULD power most of the world
+T37	Claim 9919 10134	the only problem is changing the infrastructure to allow for that would be massively expensive, and electricity costs would be much higher until battery technology and manufacture costs finally caught up with demand
+R18	concession Arg1:T37 Arg2:T36	
+R19	concession Arg1:T36 Arg2:T35	
+T38	Claim 10154 10262	we still need hydrocarbons for plastic manufacture, other chemical manufacture and thousands of other reason
+T39	Claim 10267 10348	As far as taxing the pipeline to pay for renewable energy, that's not a good idea
+T40	Premise 10356 10411	you only get tax a small percentage of the oil that way
+R20	supports-termination_setting_up Arg1:T40 Arg2:T39	
+T41	Claim 10422 10472	it's better to tax the energy companies themselves
+T42	Claim 10481 10608	hey are the ones who actually own the oil from the moment it comes out of the ground, often until you buy it in the gas station
+R21	supports-termination_setting_up Arg1:T42 Arg2:T41	
+T43	Evidential 11774 11784	points out
+A9	POS T43 verbendorsement
+T44	Premise 11786 12064	the volume of oil spilled by railcars is “less than 1 percent of the total pipeline spills.” That’s 2,268 barrels spilled by the railroads between 2002 and 2012, compared to 474,441 barrels spilled by pipeline operators over the same span, according to the Association’s numbers
+T45	Premise 12080 12246	investment in rail transport provides more flexibility as the destination of the oil can be changed unlike a pipeline which makes a fixed connection to a destination.
+T46	Premise 12310 12388	The investment in rail infrasturure is also useful in transporting other goods
+T47	Claim 11468 11551	"What is your source that trains are more environmentally dangerous than pipelines?
+R22	supports-complex Arg1:T44 Arg2:T47	
+R23	supports-termination_setting_up Arg1:T45 Arg2:T47	
+R24	supports-termination_setting_up Arg1:T46 Arg2:T47	
+T48	Premise 12843 12919	(as it would divert the oil away from the refineries in the great lakes area
+T49	Claim 12744 12842	The net effect of the XL pipeline would a slight reduction in supply of oil products in US markets
+R25	supports-causal Arg1:T48 Arg2:T49	
+T50	Claim 12609 12648	You are wrong about the very last part.
+T51	Premise 12650 12741	Almost all the refined oil products made in Houston are put on tankers and shipped overseas
+R26	supports-definitional Arg1:T51 Arg2:T50	
+T52	Claim 12390 12524	When oil production stops in the future from a particular source there will be no use for the oil pipelines connected from that source
+R27	simple-attack Arg1:T50 Arg2:T52	

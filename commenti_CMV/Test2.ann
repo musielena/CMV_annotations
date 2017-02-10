@@ -1,0 +1,223 @@
+T1	MajorClaim 24 108	I believe that fracking is a good option for energy production and should be pursued
+T2	MajorClaim 318 387	I think that fracking is a good option for domestic energy production
+T3	Modal 212 221	certainly
+A1	POS T3 advconcurrence
+T4	Claim 196 316	While there are certainly some negative aspects to fracking, the contamination of ground water being the most concerning
+T5	Modal 434 438	must
+A2	POS T5 verbconcurrence
+#1	AnnotatorNotes T5	necessity_modal
+#2	AnnotatorNotes T3	evidential? 
+R1	concession Arg1:T4 Arg2:T2	
+T6	Premise 389 589	My main support for this idea is that energy must come from somewhere and the natural gas that is produced through fracturing is much cleaner and produces energy much more efficiently than coal or oil
+A3	Stance T6 for
+R2	supports-termination_setting_up Arg1:T6 Arg2:T4	
+T7	Claim 845 929	While I know that the US is a beautiful country and I do not want to so it destroyed
+T8	Claim 932 1004	ut the US also has some of the strongest environmental laws in the world
+T9	Modal 1195 1200	could
+A4	POS T9 verbcounterexpectancy
+T10	Claim 1437 1492	This may mean that fracturing cannot be done everywhere
+T11	Modal 1442 1445	may
+A5	POS T11 verbconcessive
+T12	Modal 1508 1517	certainly
+A6	POS T12 advcounterexpectancy
+T13	Claim 1494 1550	but there are certainly places where it is a good option
+T14	Claim 1008 1110	like having resource extraction on US soil because it means that the extractors are subject to US laws
+T15	Claim 591 714	Fracking is also being done on US soil, which has positive implications for the economy and gives the public more over site
+A7	Stance T15 for
+R3	supports-termination_setting_up Arg1:T15 Arg2:T2	
+T16	Claim 12874 12963	Hydraulic Fracturing (\"fracking\") *qua* fracking as a process--well, I'd agree with you
+T17	Claim 12966 13028	However, fracking *as practiced in the US*...well, not so much
+A8	Stance T17 Against
+R4	concession Arg1:T16 Arg2:T17	
+T18	Claim 13036 13111	non-H20 chemicals used to fracture and push out gas contaminate groundwater
+R5	supports-termination_setting_up Arg1:T18 Arg2:T17	
+R6	supports-termination_setting_up Arg1:T14 Arg2:T2	
+R7	concession Arg1:T10 Arg2:T13	
+T19	Claim 1116 1176	Now I know fracturing does cause some environmental problems
+T20	Claim 1179 1285	ut I think this could be minimized by stricter regulations on the mixtures that are going into the ground.
+R8	concession Arg1:T19 Arg2:T20	
+T21	Evidential 1926 1936	can assure
+A9	POS T21 verbpronouncement
+T22	Claim 1926 2198	can assure you that the nuclear accidents at both Chernobyl and Fukushima were truly catastrophic, and have resulted in the deaths of thousands of people, because of radioactive pollution released into the atmosphere which subsequently caused many people to develop cancer
+T23	Claim 2201 2278	And even on a purely financial level, those accidents qualify as catastrophic
+T24	Claim 2281 2321	But, I am not giving up on nuclear power
+R9	concession Arg1:T23 Arg2:T24	
+T25	MajorClaim 1707 1921	It is true that if we take a path of peace and cooperation rather than international conflict, then nuclear power plants become an excellent way to make use of, and consume the fissile material from nuclear weapons
+T26	Modal 2516 2522	should
+A10	POS T26 verbpronouncement
+T27	Claim 2472 2550	I think that nuclear is a great option that should be developed for future use
+T28	Modal 2566 2570	sure
+T29	Modal 2620 2631	necessarily
+A11	POS T28 advcounterexpectancy
+A12	POS T29 advcounterexpectancy
+T30	Claim 2558 2651	I'm not sure if I would say that Chernobyl and Fukushima were necessarily catastrophic events
+T31	Premise 2895 3081	I watched an incredible documentary(http://www.netflix.com/WiPlayer?movieid=70267585&amp;trkid=13462100&amp;tctx=-99%2C-99%2C1e75f997-1d55-4aa0-bd80-5369e3804a6f-6341603) on this subject
+T32	Premise 2826 2893	Nuclear warheads are being used for fuel in American nuclear plants
+R10	supports-complex Arg1:T31 Arg2:T32	
+T33	Premise 2653 2685	While they were reactor failures
+T34	Premise 2686 2747	I don't think anyone died directly because of those failures.
+R11	concession Arg1:T7 Arg2:T8	
+R12	concession Arg1:T22 Arg2:T24	
+R13	concession Arg1:T33 Arg2:T34	
+T35	Premise 2748 2798	While nuclear does create possible nuclear weapons
+T36	Premise 2800 2824	it can also destroy them
+R14	concession Arg1:T35 Arg2:T36	
+T37	Modal 2774 2782	possible
+A13	POS T37 adjconcessive
+T38	Modal 2803 2806	can
+A14	POS T38 verbcounterexpectancy
+R15	supports-definitional Arg1:T36 Arg2:T30	
+T39	Claim 3280 3311	Nuclear power is another option
+T40	Claim 3313 3360	but it does seem to have some serious problems.
+R16	concession Arg1:T39 Arg2:T40	
+T41	MajorClaim 3822 3866	nuclear might turn out to be our best option
+R17	concession Arg1:T40 Arg2:T41	
+T42	Premise 3869 3884	It is dangerous
+T43	Premise 3886 3928	but perhaps there are no safe options left
+R18	concession Arg1:T42 Arg2:T43	
+R19	supports-alternatives Arg1:T43 Arg2:T41	
+T44	Claim 3931 3978	I do think that ultimately solar power is best,
+T45	Claim 3979 4088	but whether it is technically feasible to shift to a largely or entirely solar power system, is questionable.
+R20	concession Arg1:T44 Arg2:T45	
+T46	Premise 3562 3634	in addition, nuclear power plants make attractive targets for terrorists
+T47	Premise 3636 3681	and also play a role in nuclear proliferation
+T48	Claim 3684 3771	ran claims that its nuclear power program is purely for the purpose of generating power
+T49	Claim 3773 3809	but that claim is not very plausible
+R21	concession Arg1:T48 Arg2:T49	
+T50	Premise 3362 3431	We have had two really catastrophic nuclear accidents, Chernobyl &amp
+T51	Claim 3448 3527	while we could always say that those events are unique and will not be repeated
+T52	Claim 3529 3560	we can't really be sure of that
+R22	concession Arg1:T51 Arg2:T52	
+R23	supports-mereorogical Arg1:T50 Arg2:T40	
+R24	supports-mereorogical Arg1:T46 Arg2:T40	
+R25	supports-mereorogical Arg1:T47 Arg2:T40	
+T53	Claim 4181 4220	So I've never heard of solar satellites
+T54	Claim 4222 4304	but I assume it is a solar generating satellite that is always in sight of the sun
+R26	concession Arg1:T53 Arg2:T54	
+T55	Claim 4303 4329	n. This sounds interesting
+T56	Claim 4331 4409	but I just don't believe that solar can satisfy the energy needs of the world.
+R27	concession Arg1:T55 Arg2:T56	
+T57	MajorClaim 4410 4497	To clarify, I don't see fracking as the final solution or the ultimate source of energy
+R28	supports-analogy Arg1:T56 Arg2:T57	
+T58	Claim 4499 4597	I see it as a viable alternative to current energy extraction processes that focus on oil and coal
+T59	Evidential 4501 4504	see
+A15	POS T59 verbpronouncement
+#3	AnnotatorNotes T59	metaphorical use 
+T60	Claim 4610 4653	I would like to see an expansion of nuclear
+T61	Claim 4659 4677	thats another CMV.
+R29	concession Arg1:T60 Arg2:T61	
+T62	Claim 4767 4810	"Solar furnaces do not require rare earths.
+T63	Claim 4812 4927	However, your point is correct.  All sources of energy require some expenditure of resources, in order to be usable
+R30	concession Arg1:T62 Arg2:T63	
+T64	Claim 4930 4976	Although solar power is inconstant, as you say
+T65	Claim 4978 5082	I personally like the idea of solar power satellites which would have a more constant supply of sunlight
+T66	Claim 5085 5173	But of course, there is also a huge investment of resources to put satellites into orbit
+R31	concession Arg1:T65 Arg2:T66	
+R32	supports-mereorogical Arg1:T66 Arg2:T63	
+T67	Claim 5176 5238	With a space elevator, the needed resources would be much less
+T68	Claim 5241 5298	Still, that is just a science fictional dream, at present
+R33	concession Arg1:T67 Arg2:T68	
+T69	Modal 5089 5098	of course
+A16	POS T69 advcounterexpectancy
+T70	Premise 5483 5615	The time will come when people will be amazed at how foolish we were, to recklessly dump all that carbon dioxide into the atmosphere
+T71	MajorClaim 5430 5480	Even so, burning fossil fuels is not the way to go
+R34	supports-termination_setting_up Arg1:T70 Arg2:T71	
+T72	Claim 5301 5384	I see a lot of opportunity to make things better if technology continues to improve
+T73	Evidential 5303 5306	see
+A17	POS T73 verbpronouncement
+#4	AnnotatorNotes T73	metaphorical use 
+T74	Claim 5386 5427	but at the present time, it is a struggle
+R35	concession Arg1:T72 Arg2:T74	
+T75	Claim 6130 6188	So solar is not a completely non consumptive energy source
+T76	Premise 6190 6386	The panels require rare earth(http://e360.yale.edu/feature/a_scarcity_of_rare_metals_is_hindering_green_technologies/2711/) metals. These must be mined and there is a limited quantity in the world
+R36	supports-definitional Arg1:T76 Arg2:T75	
+T77	Claim 6388 6498	Also, solar is an inconsistent form of energy and every solar operation is backed up by natural gas generators
+T78	Evidential 4973 4976	say
+A18	POS T78 verbendorsement
+T79	Claim 6647 6734	Yes, solar power is expected to supply just half a percent of the national energy needs
+T80	Claim 6736 6837	however, it *could* supply more, if we were to devote our efforts to solar power rather than fracking
+R37	concession Arg1:T79 Arg2:T80	
+T81	Premise 7736 7802	it cannot come close to meeting the energy demands of this country
+T82	Premise 7804 7826	While solar is growing
+T83	Premise 7828 7937	t is expected to be only 0.5% of the countries(http://www.eia.gov/forecasts/steo/report/renew_co2.cfm) energy
+R38	concession Arg1:T82 Arg2:T83	
+R39	supports-causal Arg1:T83 Arg2:T81	
+T84	Claim 7112 7214	I agree that humans are changing the atmosphere through our actions and that has negative consequences
+T85	Claim 7216 7317	The natural gas that is being produced through fracking has helped the US reduce its carbon emissions
+T86	Premise 7318 7441	https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&amp;met_y=en_atm_co2e_pc&amp;hl=en&amp;dl=en&amp;idim=country:U
+T87	Premise 7455 7594	My main issue is the alternatives to natural gas, which at this point is coal and oil, mostly coal. Coal is by far dirtier than natural gas
+R40	supports-alternatives Arg1:T87 Arg2:T85	
+R41	supports-alternatives Arg1:T81 Arg2:T85	
+T88	Claim 7596 7645	While I also agree that we should use less energy
+T89	Claim 7647 7717	we still need to use energy and that energy has to come from somewhere
+R42	concession Arg1:T88 Arg2:T89	
+T90	Modal 7656 7660	need
+A19	POS T90 verbcounterexpectancy
+T92	Premise 9122 9211	fracking should be held to the same environmental standards as other industrial practices
+T93	Premise 9213 9225	but it isn't
+R43	concession Arg1:T92 Arg2:T93	
+T94	Claim 9227 9291	Until it is, I will definitely oppose new fracking installations
+R44	supports-causal Arg1:T92 Arg2:T94	
+T91	Premise 9026 9101	The EPA is not allowed to regulate the impact of fracking on water supplies
+R45	supports-causal Arg1:T91 Arg2:T93	
+T95	Claim 9412 9480	I personally feel that groundwater contamination is a larger threat.
+#5	AnnotatorNotes T95	this case is a case in which it is clear that concessions function as sort of evidential strategies linking ng 
+T96	Claim 9386 9410	While this is concerning
+R46	concession Arg1:T96 Arg2:T95	
+T97	Claim 9624 9707	Contamination of ground water isn't the most concerning negative aspect of fracking
+T98	Claim 9712 9787	Triggering  earthquakes is the most concerning negative aspect to fracking.
+R47	supports-definitional Arg1:T98 Arg2:T97	
+T99	Claim 8202 8245	we need to burn less fossil fuels, not more
+T100	Modal 8205 8209	need
+A20	POS T100 verbpronouncement
+T101	Premise 8033 8196	We are at a time in history when the carbon dioxide content of the atmosphere is rising relentlessly, very drastic climate change is in the process of taking place
+R48	supports-termination_setting_up Arg1:T101 Arg2:T99	
+T102	Premise 8417 8535	he consequences of continuing to do it by means of fossil fuels are going to become more severe with each passing year
+R49	supports-termination_setting_up Arg1:T102 Arg2:T99	
+T103	Evidential 8898 8903	seems
+A21	POS T103 verbendorsement
+T104	Claim 8758 8877	I would like to see fracking held to the same standards as most projects that require an Environmental Impact Statement
+T105	Claim 8879 8925	but in practice it seems that this is not true
+T106	Claim 13231 13291	Depending on the \"strong environmental laws\" means nothing
+T107	Premise 13293 13384	if the agencies that execute them have been coopted by the industries subject to those laws
+R50	supports-causal Arg1:T107 Arg2:T106	
+T108	Premise 13389 13768	The industry has a piss-poor track record of \"policing itself\" by not fracturing in sensitive areas, responding to citizen concerns of groundwater contamination, or in keeping the energy produced within the US market (the whole \"we want to improve US energy security\" meme that's trotted out by the energy companies whenever they're trying to gain rights to drill in the US).
+R51	supports-causal Arg1:T108 Arg2:T107	
+T109	Premise 13772 14185	My takeaway is that the actual *process* or fracking as an idea *isn't* what has people up in arms (I don't believe I've heard anyone say \"no extraction of energy anywhere, in any form, with any process, EVAR!!11\"), but the reckless abandon in employing fracking, the impacts to quality of life of people nearby, the seismological impacts, and the lack of ownership by the energy companies when things go wrong.
+T110	Claim 14187 14353	All of these say that fracking is a tool they should not be allowed to have in their \"toolbox\" until they show more reasonable concern and precautions when using it
+R52	supports-termination_setting_up Arg1:T109 Arg2:T110	
+T111	Claim 14443 14538	"Your concepts of us oil being good for the economy and good for the us are very short sighted.
+T112	Premise 14540 14798	We are talking about limited resources. So when it rubs out here we will be completely at the mercy of foreign powers. If we buy up and deplete the rest of the worlds supplies now then we will be the last man standing in terms of having oil and gas to dig up
+R53	supports-definitional Arg1:T112 Arg2:T111	
+T113	Claim 10311 10401	There's nothing wrong with fracking as a process. If done correctly, it is relatively safe
+T114	Claim 10403 10587	Unfortunately, it is not currently possible to verify the safety of any fracking operation because they are currently exempt from just about every single environmental law that matters
+R54	concession Arg1:T114 Arg2:T113	
+T115	Modal 10438 10446	possible
+A22	POS T115 advcounterexpectancy
+T116	Premise 11043 11093	People hate secrets and even a whiff of favoritism
+T117	Claim 10666 10947	Companies also don't help themselves when they lobby to change environmental laws (the Safe Drinking Water Act and Clean Water Act exceptions in the 2005 EP Act) so as to keep the contents of their fracking fluid secret and remove EPA oversight of fracking and oil/gas construction
+T118	Premise 10949 11041	Even the waste water from fracking is exempt from the Resource Conservation and Recovery Act
+R55	supports-mereorogical Arg1:T118 Arg2:T117	
+R56	supports-causal Arg1:T116 Arg2:T117	
+T119	Claim 11309 11392	but apparently the public cannot trust at least some of these companies to do that.
+T120	Claim 11245 11307	Sure, the process is safe if performed correctly and with care
+T121	Modal 11245 11249	Sure
+A23	POS T121 advconcessive
+T122	Evidential 11313 11323	apparently
+A24	POS T122 advcounterexpectancy
+T123	Premise 11393 11831	I live near the Marcellus Shale, and our local talk radio is all fracking all the time. People hear about contaminations and are freaking out, but the geniuses working for departments of environmental conservation/protection in NY and PA are simply terrible at communicating with the public about what's going on. The PA DEP even **argued in court** that they don't keep track of contamination complaints or even know where they keep them
+R57	supports-mereorogical Arg1:T123 Arg2:T119	
+T124	Modal 11335 11341	cannot
+A25	POS T124 verbcounterexpectancy
+T125	Claim 12071 12242	I agree with you that fracking, when performed correctly, is relatively safe, based on conversations I've had with another (former, he teaches now) oil &amp; gas engineer.
+T126	Claim 12243 12342	But I also believe that fracking, as it is currently being practiced and managed in the US, is bad.
+R58	concession Arg1:T125 Arg2:T126	
+T127	Premise 12343 12425	By hogtying the EPA, continuing to use diesel in secret, and generally screwing up
+T128	Premise 12556 12643	I can't trust these companies to actually do this job safely with just state oversight.
+R59	supports-causal Arg1:T127 Arg2:T128	
+T129	Premise 12694 12778	these companies shouldn't require a single exemption from federal environmental laws
+T130	Premise 12644 12691	If they're so responsible (and, therefore, safe
+R60	supports-termination_setting_up Arg1:T130 Arg2:T129	
+T131	Modal 12558 12562	can'
+A26	POS T131 verbpronouncement
+R61	supports-definitional Arg1:T129 Arg2:T126	

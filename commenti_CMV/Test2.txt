@@ -1,0 +1,164 @@
+POST: 2
+
+TITLE: "CMV: I believe that fracking is a good option for energy production and should be pursued. I consider myself an environmentalist.",
+
+AUTHOR:"maxblasdel",
+
+BEGIN POSTING: 
+"While there are certainly some negative aspects to fracking, the contamination of ground water being the most concerning, I think that fracking is a good option for domestic energy production. My main support for this idea is that energy must come from somewhere and the natural gas that is produced through fracturing is much cleaner and produces energy much more efficiently than coal or oil. Fracking is also being done on US soil, which has positive implications for the economy and gives the public more over site. A lot of environmental degradation is outsourced to other countries so that the US can benefit from the energy that is produced. While I know that the US is a beautiful country and I do not want to so it destroyed, but the US also has some of the strongest environmental laws in the world. I like having resource extraction on US soil because it means that the extractors are subject to US laws. 
+
+Now I know fracturing does cause some environmental problems, but I think this could be minimized by stricter regulations on the mixtures that are going into the ground. I consider ground water a very valuable resource and if fracturing is causing contamination then steps should be put in place to minimize those leaks. This may mean that fracturing cannot be done everywhere, but there are certainly places where it is a good option.
+
+_____
+
+[Quote] 
+END POSTING
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+COMMENT_ID: "t1_cgpy4qc",
+AUTHOR:  "deleted",
+REFERS TO: "t1_cgps9bu",
+TEXT:  "It is true that if we take a path of peace and cooperation rather than international conflict, then nuclear power plants become an excellent way to make use of, and consume the fissile material from nuclear weapons.  I can assure you that the nuclear accidents at both Chernobyl and Fukushima were truly catastrophic, and have resulted in the deaths of thousands of people, because of radioactive pollution released into the atmosphere which subsequently caused many people to develop cancer.  And even on a purely financial level, those accidents qualify as catastrophic.  But, I am not giving up on nuclear power.  We just have to be careful about how we use it.",
+
+
+COMMENT_ID: "t1_cgps9bu",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgprirm",
+TEXT:  "Agreed, I think that nuclear is a great option that should be developed for future use. Also, I'm not sure if I would say that Chernobyl and Fukushima were necessarily catastrophic events. While they were reactor failures I don't think anyone died directly because of those failures. While nuclear does create possible nuclear weapons, it can also destroy them. Nuclear warheads are being used for fuel in American nuclear plants. I watched an incredible documentary(http://www.netflix.com/WiPlayer?movieid=70267585&amp;trkid=13462100&amp;tctx=-99%2C-99%2C1e75f997-1d55-4aa0-bd80-5369e3804a6f-6341603) on this subject and it really got me thinking a lot about the whole energy issue. I highly recommend it is you have netflix.",
+
+
+COMMENT_ID: "t1_cgprirm",
+AUTHOR:  "deleted",
+REFERS TO: "t1_cgpk3jy",
+TEXT:  "Nuclear power is another option, but it does seem to have some serious problems.  We have had two really catastrophic nuclear accidents, Chernobyl &amp; Fukushima, and while we could always say that those events are unique and will not be repeated, we can't really be sure of that; in addition, nuclear power plants make attractive targets for terrorists, and also play a role in nuclear proliferation (Iran claims that its nuclear power program is purely for the purpose of generating power, but that claim is not very plausible).  Even so, nuclear might turn out to be our best option.  It is dangerous, but perhaps there are no safe options left.  I do think that ultimately solar power is best, but whether it is technically feasible to shift to a largely or entirely solar power system, is questionable.",
+
+
+COMMENT_ID: "t1_cgpk3jy",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgph83p",
+TEXT:  "So I've never heard of solar satellites, but I assume it is a solar generating satellite that is always in sight of the sun. This sounds interesting, but I just don't believe that solar can satisfy the energy needs of the world. To clarify, I don't see fracking as the final solution or the ultimate source of energy. I see it as a viable alternative to current energy extraction processes that focus on oil and coal. Ultimately I would like to see an expansion of nuclear, but thats another CMV. ",
+
+
+COMMENT_ID: "t1_cgph83p",
+AUTHOR:  "deleted",
+REFERS TO: "t1_cgpgny2",
+TEXT:  "Solar furnaces do not require rare earths.  However, your point is correct.  All sources of energy require some expenditure of resources, in order to be usable.  Although solar power is inconstant, as you say, I personally like the idea of solar power satellites which would have a more constant supply of sunlight.  But of course, there is also a huge investment of resources to put satellites into orbit.  With a space elevator, the needed resources would be much less.  Still, that is just a science fictional dream, at present.  I see a lot of opportunity to make things better if technology continues to improve, but at the present time, it is a struggle.  Even so, burning fossil fuels is not the way to go.  The time will come when people will be amazed at how foolish we were, to recklessly dump all that carbon dioxide into the atmosphere.  And by then it may be too late to fix the problem
+
+
+COMMENT_ID: "t1_cgps4hj",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgpqoo9",
+TEXT:  "Night or cloudy.",
+
+
+COMMENT_ID: "t1_cgpqoo9",
+AUTHOR:  "Pipstydoo",
+REFERS TO: "t1_cgpgny2",
+TEXT:  "By \"inconsistent\" do you mean because it's night sometimes
+
+
+COMMENT_ID: "t1_cgpqo8x",
+AUTHOR:  "Pipstydoo",
+REFERS TO: "t1_cgpgny2",
+TEXT:  "We could build LFTRs.",
+
+
+COMMENT_ID: "t1_cgpgny2",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgpftab",
+TEXT:  "So solar is not a completely non consumptive energy source. The panels require rare earth(http://e360.yale.edu/feature/a_scarcity_of_rare_metals_is_hindering_green_technologies/2711/) metals. These must be mined and there is a limited quantity in the world. Also, solar is an inconsistent form of energy and every solar operation is backed up by natural gas generators. ",
+
+
+REFERS TO: "t1_cgpftab",
+COMMENT_ID: "t1_cgphdwi",
+
+
+COMMENT_ID: "t1_cgpftab",
+AUTHOR:  "deleted",
+REFERS TO: "t1_cgpfpmz",
+TEXT:  "Yes, solar power is expected to supply just half a percent of the national energy needs, however, it *could* supply more, if we were to devote our efforts to solar power rather than fracking.  If we really took the problem of global warming seriously, we would be doing a lot more about it.  But no matter.  When things get bad enough, we will take the problem seriously. ",
+
+
+COMMENT_ID: "t1_cgpfpmz",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgpfdb2",
+TEXT:  "I agree that humans are changing the atmosphere through our actions and that has negative consequences. The natural gas that is being produced through fracking has helped the US reduce its carbon emissions(https://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&amp;met_y=en_atm_co2e_pc&amp;hl=en&amp;dl=en&amp;idim=country:USA:RUS:CHN).
+My main issue is the alternatives to natural gas, which at this point is coal and oil, mostly coal. Coal is by far dirtier than natural gas. While I also agree that we should use less energy, we still need to use energy and that energy has to come from somewhere. As far as solar, it cannot come close to meeting the energy demands of this country. While solar is growing it is expected to be only 0.5% of the countries(http://www.eia.gov/forecasts/steo/report/renew_co2.cfm) energy needs.",
+
+
+COMMENT_ID: "t1_cgpfdb2",
+AUTHOR:  "deleted",
+REFERS TO: "t3_22qmq8",
+TEXT:  "We are at a time in history when the carbon dioxide content of the atmosphere is rising relentlessly, very drastic climate change is in the process of taking place, and we need to burn less fossil fuels, not more.  But then where does our energy come from?  There are lots of alternatives, solar power being the most benign.  We may not want to change the way we generate power, but the consequences of continuing to do it by means of fossil fuels are going to become more severe with each passing year.  Fracking is not a good idea.",
+
+
+COMMENT_ID: "t1_cgq2vlf",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgpysnf",
+TEXT:  "This is a really good point. Part of my argument or thinking is the theoretical extent of the law. I would like to see fracking held to the same standards as most projects that require an Environmental Impact Statement, but in practice it seems that this is not true. ",
+
+
+COMMENT_ID: "t1_cgpysnf",
+AUTHOR:  "PerturbedPlatypus",
+REFERS TO: "t3_22qmq8",
+TEXT:  "The EPA is not allowed to regulate the impact of fracking on water supplies. At the very least, fracking should be held to the same environmental standards as other industrial practices, but it isn't. Until it is, I will definitely oppose new fracking installations. ",
+
+
+COMMENT_ID: "t1_cgpk05n",
+AUTHOR:  "maxblasdel",
+REFERS TO: "t1_cgpj0hb",
+TEXT:  "While this is concerning, I personally feel that groundwater contamination is a larger threat.",
+
+
+REFERS TO: "t1_cgpj0hb",
+COMMENT_ID: "t1_cgpqpw8",
+
+
+COMMENT_ID: "t1_cgpj0hb",
+AUTHOR:  "awa64",
+REFERS TO: "t3_22qmq8",
+TEXT:  "Contamination of ground water isn't the most concerning negative aspect of fracking.
+
+Triggering  earthquakes is the most concerning negative aspect to fracking.(http://www.motherjones.com/environment/2013/03/does-fracking-cause-earthquakes-wastewater-dewatering)",
+
+
+COMMENT_ID: "t1_cgpkhge",
+AUTHOR:  "deleted",
+REFERS TO: "t3_22qmq8",
+TEXT:  "[Quote] Now I know fracturing does cause some environmental problems, but I think this could be minimized by stricter regulations on the mixtures that are going into the ground. I consider ground water a very valuable resource and if fracturing is causing contamination then steps should be put in place to minimize those leaks. 
+
+There's nothing wrong with fracking as a process. If done correctly, it is relatively safe. Unfortunately, it is not currently possible to verify the safety of any fracking operation because they are currently exempt from just about every single environmental law that matters. I've already written about this on reddit, so I will quote myself:
+
+[Quote]Companies also don't help themselves when they lobby to change environmental laws (the Safe Drinking Water Act and Clean Water Act exceptions in the 2005 EP Act) so as to keep the contents of their fracking fluid secret and remove EPA oversight of fracking and oil/gas construction. Even the waste water from fracking is exempt from the Resource Conservation and Recovery Act. People hate secrets and even a whiff of favoritism. It breeds mistrust. These companies make it even worse when they sign MOUs to stop using diesel, then continue to use diesel. Again, trust.
+
+[Quote]Sure, the process is safe if performed correctly and with care, but apparently the public cannot trust at least some of these companies to do that. I live near the Marcellus Shale, and our local talk radio is all fracking all the time. People hear about contaminations and are freaking out, but the geniuses working for departments of environmental conservation/protection in NY and PA are simply terrible at communicating with the public about what's going on. The PA DEP even **argued in court** that they don't keep track of contamination complaints or even know where they keep them. How are people supposed to make informed decisions about easements when the very agency supposedly responsible for oversight can't (or won't) provide the most basic information to the public?
+
+[Quote]I'm not anti-fracking in principle. I agree with you that fracking, when performed correctly, is relatively safe, based on conversations I've had with another (former, he teaches now) oil &amp; gas engineer. But I also believe that fracking, as it is currently being practiced and managed in the US, is bad. By hogtying the EPA, continuing to use diesel in secret, and generally screwing up (more than 100 contaminations out of 5000 new wells in Pennsylvania since 2005 according to research done for a story by the AP), I can't trust these companies to actually do this job safely with just state oversight. If they're so responsible (and, therefore, safe), these companies shouldn't require a single exemption from federal environmental laws.",
+
+
+COMMENT_ID: "t1_cguzlwa",
+AUTHOR:  "Duke_Newcombe",
+REFERS TO: "t3_22qmq8",
+TEXT:  "Hydraulic Fracturing (\"fracking\") *qua* fracking as a process--well, I'd agree with you.  However, fracking *as practiced in the US*...well, not so much.
+
+1) non-H20 chemicals used to fracture and push out gas contaminate groundwater.  You admit as such, so I wont belabor it.
+
+2) Regulatory Capture(http://en.wikipedia.org/wiki/Regulatory_capture).  Depending on the \"strong environmental laws\" means nothing, if the agencies that execute them have been coopted by the industries subject to those laws.
+
+The industry has a piss-poor track record of \"policing itself\" by not fracturing in sensitive areas, responding to citizen concerns of groundwater contamination, or in keeping the energy produced within the US market (the whole \"we want to improve US energy security\" meme that's trotted out by the energy companies whenever they're trying to gain rights to drill in the US).
+
+My takeaway is that the actual *process* or fracking as an idea *isn't* what has people up in arms (I don't believe I've heard anyone say \"no extraction of energy anywhere, in any form, with any process, EVAR!!11\"), but the reckless abandon in employing fracking, the impacts to quality of life of people nearby, the seismological impacts, and the lack of ownership by the energy companies when things go wrong.  All of these say that fracking is a tool they should not be allowed to have in their \"toolbox\" until they show more reasonable concern and precautions when using it.
+
+
+COMMENT_ID: "t1_cgqk0kk",
+AUTHOR:  "maxpenny42",
+REFERS TO: "t3_22qmq8",
+TEXT:  "Your concepts of us oil being good for the economy and good for the us are very short sighted.  We are talking about limited resources. So when it rubs out here we will be completely at the mercy of foreign powers. If we buy up and deplete the rest of the worlds supplies now then we will be the last man standing in terms of having oil and gas to dig up. Long term strategy would make waiting and sitting on our energy supplies until they're actually needed.  ",
+
+
+
+END COMMNETS FOR POSTING

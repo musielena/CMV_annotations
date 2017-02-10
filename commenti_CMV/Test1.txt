@@ -1,0 +1,400 @@
+POST: 1
+
+TITLE: "CMV: Bernie Sanders' energy policy is based in fantasy."
+
+AUTHOR: "drodin"
+
+BEGIN POSTING:
+"He has expressed a desire to ban fracking, phase out nuclear, and obviously hates coal. Those methods accounted for **85% of all our generated electricity in 2014**. 
+
+He wants to replace them with wind, solar, geothermal, and biomass. **Those methods accounted for about 6% of all generated electricity.**
+
+Additionally, all the methods that Sanders favors are very geographically dependent and require grid-scale energy storage for which we have no viable solutions.
+
+Change my view that this plan is fantasy.&gt;
+END POSTING
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+REFERS TO: "t1_d332sjn",
+COMMENT_ID: "t1_d33cq7v",
+
+
+COMMENT_ID: "t1_d332sjn",
+AUTHOR:  "peterc17",
+REFERS TO: "t1_d32z6fn",
+TEXT:  "Hey drodin,
+
+I work in renewable energy law and policy here in Europe. It is definitely not physically impossible for you to at least achieve close to what Sanders hopes for in 20 years (if he started in November after taking office). He would maybe have to concede (at least in the short to medium term) on natural gas and nuclear (like you said).
+
+RE technologies are getting cheaper and better all the time, at an amazing rate. The cost would obviously be substantial but not as bad as many skeptics claim it would. 
+
+The US has the money, labour, intellect, technology and resources to implement Sanders' plan. The only reason it is fantasy is because of the political climate in your country. That is the biggest barrier to achieving what he wants. Your original post is skeptical about the USA's capabilities but some of your comment responses are pointing out the legislative and political barriers. I think the latter is a much more valid reason to not believe it would work. 
+
+RE production can be substantially increased in a very short amount of time. It would create jobs in R&amp;D, manufacturing, construction, maintenance, etc, etc etc... and open up a whole new field for investors. The issue is getting the political will to make such an admittedly drastic move, which I think is nearly impossible.
+
+TL;DR - it is political fantasy, but everything that is needed to physically achieve his goal is available. ",
+
+
+COMMENT_ID: "t1_d32z6fn",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32yfhd",
+TEXT:  "Attaining 50% renewables in 20 years is impossible. I'm not even being hyperbolic. I work closely with a lot of scientists that are working on batteries and it would take a miracle for someone to develop the technology and manufacturing methods for cost-competitive batteries in that time. In the meantime, we would need to start laying the groundwork TODAY for the next generation grid. So that would require convincing Congress to invest trillions into a renewable energy project that depends on a scientific miracle. And even if this miracle happens, the energy bills for nearly every American will skyrocket to the point where low-income families are spending nearly half of their after-tax income on electricity. It won't happen in 20 years.",
+
+
+COMMENT_ID: "t1_d3316go",
+AUTHOR:  "Klarkson1273",
+REFERS TO: "t1_d330q5n",
+TEXT:  "On top of this many cities in northern states use the steam from power plants to heat buildings. Heat created from electricity is really inefficient. Northern states electricity bills will sky rocket in the winter.",
+
+
+COMMENT_ID: "t1_d330q5n",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32zbjt",
+TEXT:  "I think you meant to say \"constant\" rather than \"content\". And I agree, we need energy storage before we can replace baseload generation with renewables. Another important aspect of baseload is not only that its constant but that it can be scaled up or down based on need. Renewables don't have this capability.",
+
+
+COMMENT_ID: "t1_d32zbjt",
+AUTHOR:  "Klarkson1273",
+REFERS TO: "t1_d32yfhd",
+TEXT:  "The thing about these methods of energy production is that they are content. Wind and solar are not. We will need some ability for storage which we do not have. We are also far more limited on production because it takes far more time to produce all the wind mills or solar panels to be the equivalent of a nuclear or coal plant and we need to mine up the rare earth metals required to make wind turbines and solar panels.",
+
+
+COMMENT_ID: "t1_d32yfhd",
+AUTHOR:  "ghotier",
+REFERS TO: "t1_d32vynd",
+TEXT:  "Do you know what timescales are normally needed to change power production? I'm not sure 20 years is unreasonably short. ",
+
+
+COMMENT_ID: "t1_d334c37",
+AUTHOR:  "singlerider",
+REFERS TO: "t1_d32vynd",
+TEXT:  "Whilst fracking may reduce CO2 emissions over coal, it would be myopic to ignore the resulting methane emissions, as methane is a far worse greenhouse gas",
+
+
+REFERS TO: "t1_d335lnd",
+COMMENT_ID: "t1_d340bfc",
+
+
+COMMENT_ID: "t1_d335lnd",
+AUTHOR:  "Diiiiirty",
+REFERS TO: "t1_d32vynd",
+TEXT:  "Not to mention the job loss. I have a nuclear power plant near me that employs quite a few people in my otherwise poor economic area, for example.",
+
+
+COMMENT_ID: "t1_d32vynd",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32vbsi",
+TEXT:  "First off, that quote doesn't give any indication as to how quickly he hopes this transformation will take place.
+
+Secondly, he has called for a ban on fracking and has stated he will not renew nuclear permits which are renewed on a 20 year basis. That means in 20 years we will have eliminated nearly 50% of current generation. That isn't a long-term approach its a heavy-handed takeover that will inevitably lead to a rise in coal generation which is by far the worst of the three.
+
+I think anyone who is serious about reducing our emissions should embrace natural gas and nuclear not because they are perfect but because, without grid-scale storage, they are the only realistic alternatives to coal. I view Bernie's energy policy as a black-and-white political maneuver rather than a serious attempt at solving a complicated problem.",
+
+
+COMMENT_ID: "t1_d32vbsi",
+AUTHOR:  "The_Dead_See",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "It's only fantasy if you take it on a short time scale. Quotes such as this from Sanders show that he's approaching these issues as a long term crisis:
+
+&gt;The scientific community is telling us that if we do not address the global crisis of climate change, transform our energy system away from fossil fuel to sustainable energy, the planet that we're going to be leaving our kids and our grandchildren may well not be habitable. That is a major crisis.
+
+I don't believe for a moment that he's naïve enough to think that we can convert all our existing power infrastructure to more sustainable options on a short term basis. I believe his intention is to put legislation in place that removes some of the political and financial blocks to new power generation - of which there are many - and therefore make the path to progress move faster. 
+
+Sanders has stated many times that his vision places long term future over short term gain. ",
+
+
+COMMENT_ID: "t1_d33cx46",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d33clsk",
+TEXT:  "That's true. And they import natural gas from Russia which also adds to the cost of energy. But at the same time renewables are considerably more expensive than fossil fuels and nuclear.",
+
+
+COMMENT_ID: "t1_d33clsk",
+AUTHOR:  "shotpun",
+REFERS TO: "t1_d32x58o",
+TEXT:  "&gt; Also Germans pay about 3.5 times as much for electricity as we do in the US.
+
+Remember that part of this is based in German government as a whole and their idea of a welfare state, not just that their methods of energy production/import are more expensive.",
+
+
+COMMENT_ID: "t1_d32x58o",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32vu4t",
+TEXT:  "I don't know of any countries with energy sectors as large as the US which are producing anywhere near 50% of their energy from renewables. The closest one that doesn't rely heavily on geographic sources is probably Germany but they are only at 25% and they rely on Norway for pumped hydro storage. Also Germans pay about 3.5 times as much for electricity as we do in the US. Couple that with the fact that low-income families in the US spend about 23% of their after-tax income on electricity and it becomes clear that what has worked for Germany will not work in the US without severely taxing the poor.",
+
+
+REFERS TO: "t1_d32vu4t",
+COMMENT_ID: "t1_d32z1xr",
+
+
+COMMENT_ID: "t1_d32vu4t",
+AUTHOR:  "Kman17",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "There are numerous countries in the world that get the majority of their power from renewables.  See here(https://en.m.wikipedia.org/wiki/List_of_countries_by_electricity_production_from_renewable_sources).  
+
+Sure, some forms of power can fluctuate a little or require particular geographies - but that doesn't mean they are not viable.
+
+Making our grid more reliable to handle fluctuating output and demand from different regions is a good idea regardless of the source.
+
+It's been done.  Hard? Maybe. Fantasy? No.  The technology is there.  
+
+Besides, setting audacious goals in this context is *fine*.  We don't have to hit the goals 100% for it to make a huge positive impact.
+
+
+COMMENT_ID: "t1_d33ktzd",
+AUTHOR:  "Scottmk4",
+REFERS TO: "t1_d33f6rk",
+TEXT:  "Don't forget flooding. Any sizable dam is going to flood a large area upstream as it fills to capacity.
+
+That land is largely owned today, and people don't like having their property seized by eminent domain.",
+
+
+COMMENT_ID: "t1_d33f6rk",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d33f0p9",
+TEXT:  "So one thing to consider is that you can only dam a river so often because you need a lot of water pressure to run the turbine. Its the same reason you can't put a wind turbine directly behind another wind turbine. So even though it looks like there are TONS of rivers there are really only so many places you can put dams.
+
+Also, building a dam just for the purpose of electricity is not remotely cost-effective. You need to have a reason to build the dam in the first place, then you can install some turbines to generate electricity. So building more dams solely for the purpose of power generation would not be a smart way to approach the problem.",
+
+
+COMMENT_ID: "t1_d33f0p9",
+AUTHOR:  "shotpun",
+REFERS TO: "t1_d33edgu",
+TEXT:  "&gt; Building more dams isn't really an option because the country already has too many
+
+Again, looking at maps of U.S. rivers makes me skeptical of this claim, although I admittedly don't really understand the logistics of hydroelectric power.",
+
+
+COMMENT_ID: "t1_d33edgu",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d33dhhc",
+TEXT:  "https://en.wikipedia.org/wiki/Hydroelectric_power_in_the_United_States#Potential_hydroelectric_power_from_existing_dams
+
+If we start harnessing power from all existing dams in the US it will increase the output of hydroelectric power by 16%. Right now hydro gives us about 7% of our total electricity so maxing out would increase it from 7 to 8%. Building more dams isn't really an option because the country already has too many and the efficiency of hydropower is already pretty much maxed out so increasing output from existing dams isn't an option either.",
+
+
+COMMENT_ID: "t1_d33dhhc",
+AUTHOR:  "shotpun",
+REFERS TO: "t1_d32wbqe",
+TEXT:  "&gt; US has already pretty much maximized our capacity for hydro
+
+Do you have a source for this?",
+
+
+COMMENT_ID: "t1_d32wbqe",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32vyl0",
+TEXT:  "You cited Norway as an example of a country that has achieved renewable energy but they get 99% of their energy from hydro. Hydro is purely based on geography and the US has already pretty much maximized our capacity for hydro so their solution is incompatible with ours.
+
+&gt;Additionally, I'm not sure there's much evidence that grid-scale storage is needed.
+
+What are you talking about? Literally no one believes this to be the case. You simply cannot use a lot of renewables, which tend to produce energy at relatively random times, and meet the energy demands of the country without being able to store some of the energy for later use. Energy storage is an essential part of the smart grid.
+
+And his policy really isn't a long-term solution because through a ban on fracking and refusal to renew nuclear permits he plans to phase out 50% of our generation in 20 years. Obviously he can only be president for 8 of those years but you cannot tell me his approach is gradual.
+
+
+REFERS TO: "t1_d32vyl0",
+COMMENT_ID: "t1_d32zvpc",
+
+
+COMMENT_ID: "t1_d32vyl0",
+AUTHOR:  "landoindisguise",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "It's a fantasy within the realm of a four-year presidency, but that's not what he's talking about. It's a long-term goal, and a very achievable one. Renewables many generate just 6% of our energy, but there are plenty of developed Western countries already doing way better(https://en.wikipedia.org/wiki/Renewable_energy_in_Norway). 
+
+Additionally, I'm not sure there's much evidence that grid-scale storage is needed. A lot of renewable methods of generation are somewhat geographically dependent, but there are many different kinds and they serve different geographies. So yeah, tidal power is going to be worthless to Nevada unless there's grid-scale storage...except that they have solar. And yeah, geothermal isn't going to be as useful in many places in the US as it is in (for example) Iceland, but there's hydro, wind, solar, tidal, biomass, etc. Even if we don't accomplish grid-scale storage, specifically what location in the US is there that couldn't possibly accommodate *any* of those?
+
+In fact, there are already plans in place for every state. For example, you can check out the map here: http://thesolutionsproject.org/#page-fifty-states (prob need to click on the US and then scroll down to the state map, then you can mouseover each state to see the breakdown of local energy sources). 
+
+Of course, that's an optimistic view of what's possible by 2050, not what's doable in the next four years. But that's what Bernie's energy policy essentially is. He's not saying we can get to 100% renewable tomorrow, he's saying that we need to start heading in that direction as quickly as possible. 
+
+(That said, I personally disagree with him about nuclear. I would prefer renewable sources, but in the short term I'd still love to see nuclear plants replacing coal/gas plants.)",
+
+
+REFERS TO: "t1_d32vdkr",
+COMMENT_ID: "t1_d33n0gw",
+
+
+COMMENT_ID: "t1_d32vdkr",
+AUTHOR:  "A_Soporific",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "None of those things are inherently impossible. It is possible to replace the entirety of our power infrastructure over time. Naturally, it isn't going to happen in a single presidency, turning off some of the older nuclear power plants takes longer than that. That said, a lot of our power sources are there not because they are the best choice, but because we already have them in place.
+
+We spent billions of dollars developing our coal infrastructure going back several centuries. That's an absurd amount of resources to develop coal, and all that investment makes additional investment cheaper and easier than other sources. This is called *path dependency* and isn't necessarily a good thing.
+
+The continued use of something that's not as good because you already paid for it is something that economists refer to as *the sunk cost fallacy*. Money spent in the 1880's is irrelevant to the decision on whether or not we should invest in a coal plant or a solar plant now, but human psychology begs to differ. Ever hear someone saying how they need to continue gambling to make back their losses or saying that they lost too much to give up now? Well, that's what's going on in our power infrastructure. The math is clear *it doesn't matter* that we spent centuries investing in coal, it's not a waste as we already got our money's worth out of it, but people are still focused on all that current stuff and worried about losing all that past investment rather than making the decision based on what's best going forward.
+
+It's getting to the point where it's hard to justify continuing building oil and coal burning plants as renewables are becoming much, much cheaper and more efficient. That trend doesn't show any sign of slowing. Building those plants and developing grid-scale energy storage is where we need to be putting our money. To not invest in those things is pure folly that will leave us behind.
+
+It's telling that in developing nations renewables are the overwhelming majority of new construction. They don't have the path dependency or the centuries of investment in coal and oil infrastructure, but they aren't developing that infrastructure to the same degree. That makes it clear, if you clear away the natural mental hang-ups of mankind renewables already make more sense than \"traditional\" sources of power generation. We shouldn't let ourselves be bogged down by the fact that solar and wind power weren't options when our grid was first planned out.
+
+Granted, I'm not a fan of a lot of the details in Mr. Sanders' policies, but I think that we should be investing much more heavily in modernizing our infrastructure, especially in terms of wind, solar, geothermal, and biomass.",
+
+
+COMMENT_ID: "t1_d32x9of",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32x2b2",
+TEXT:  "He wants to ban fracking and phase out all nuclear over the next 20 years. That's 50% of all our generated electricity. If he wanted to promote renewables while allowing nuclear and natural gas to serve as a bridge from coal then his plan would be realistic. But that's not what he is proposing. ",
+
+
+COMMENT_ID: "t1_d32x2b2",
+AUTHOR:  "EntireSiteFromOrbit",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "His goal is achievable but that would take decades. If he plans to do this in 4 years then yes, It's a fantasy.",
+
+
+REFERS TO: "t1_d32vef7",
+COMMENT_ID: "t1_d34axux",
+
+
+COMMENT_ID: "t1_d32vef7",
+AUTHOR:  "nofftastic",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "While I don't like Bernie and don't agree with almost everything he says, I'll play devil's advocate in this case.
+
+As of today, you are right, it's fantasy. We simply don't have the means to generate enough electricity through the means he proposed. That doesn't mean it will always be fantasy though. We've stuck with coal and oil because that's what we built our power infrastructure and cars for, so they're cheap, reliable, and easy. Nuclear is just scary to some people (idiots) so Bernie wants to cater to the scaredy-cats and do away with that too. Whatever, fine, let's go with it.
+
+Coal and oil well eventually run out. When they do, it will suddenly be cheaper to invest in wind, solar, etc. And those technologies will improve incredibly quickly, allowing them to provide all the electricity we need. Bernie just wants to start that technological research and advancement now, rather than later.
+
+Going back to nuclear (and climbing onto my soapbox), that's honestly the best way forward. It's clean, incredibly efficient, and we already have the technology, so far less R&amp;D money needs to go into it. The only problem is that it's scary to people who cite Three Mile Island and Chernobyl as horror stories of the dangers of nuclear energy, nevermind the fact that nobody was hurt by TMI, and Chernobyl was a trash dump run by incompetent nincompoops. Across the globe, nuclear energy provides a ludicrous amount of safe power. That's what we should be moving toward.",
+
+
+REFERS TO: "t1_d33484p",
+COMMENT_ID: "t1_d33a5yg",
+
+
+COMMENT_ID: "t1_d33484p",
+AUTHOR:  "EffectiveExistence",
+REFERS TO: "t1_d330wep",
+TEXT:  "Anything that has not yet been researched and developed is incompatible with science. We have scientists for a reason. We should not stick to our old ways just because that's what we know. We shouldn't abstain from trying to make changes because someone who's satisfied with the way things are says it will be too hard to figure out. 
+
+\"We can't do it because I don't know how we'd do it so let's not even try!\"
+
+*Edit:
+
+I'd rather have a scathing criticism of my comments than a silent downvote.
+
+&gt;require grid-scale energy storage for which we have no viable solutions.
+
+Here how about this? Why do you not even mention funding development of this technology?",
+
+
+COMMENT_ID: "t1_d37ds88",
+AUTHOR:  "sheeple666",
+REFERS TO: "t1_d37dcwi",
+TEXT:  "I think the culture of it now is to show the ideal end goal they're promising to work for rather than a concrete promise. The sole fact that once they're elected, they're in for at least four years makes the whole campaign promises aspect somewhat weak. 
+
+Personally, I tend to respect those that hold back on the \"how\" part and simply state the direction they aim for. I once saw a politician in a European country be asked if her administration would increase or decrease the budget for the coming years and her response have always stuck with me, \"We will respond to the current economy at that time; if we must, we will abandon ideology and do what is best.\" 
+
+The way the sort of elaborate, fleshed out plans Sanders has provided is really unusual. Personally I believe they're somewhat necessary for the service based New Economy but politically... he's a Jimmy Carter ",
+
+
+COMMENT_ID: "t1_d37dcwi",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d372w78",
+TEXT:  "Yeah I don't understand this mentality.
+
+\"Sanders is proposing a bullshit plan that makes no sense but he is only doing it to try to get elected and it will never happen anyways so don't worry about it.\"",
+
+
+COMMENT_ID: "t1_d372w78",
+AUTHOR:  "sheeple666",
+REFERS TO: "t1_d330wep",
+TEXT:  "I know this is already somewhat old but I think there's a point to be made in that this is the election period. Nothing these people say should be taken without a grain of salt. ",
+
+
+COMMENT_ID: "t1_d330wep",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32z8vk",
+TEXT:  "I'm sorry but the energy policy of the United States and combatting global warming are way too important for \"passion and ideals\" to count for anything. We need results and Bernie's plan is incompatible with science.",
+
+
+COMMENT_ID: "t1_d32z8vk",
+AUTHOR:  "EffectiveExistence",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "Keep in mind we're not electing a dictator. Even if he had unilateral power, he wouldn't be stupid enough to shut down 85% of the country's power generation. I think it's good that he has goals that could be considered unrealistic by some. He's an idealist with passion. Maybe we will never get to the exact energy plan he visualizes, but he's going to make sure we get as close as possible. What's the point of being defeatist? Everyone knows he can't make impossible things happen, but he can fight to make more things possible that aren't as of now.",
+
+
+COMMENT_ID: "t1_d330zvz",
+AUTHOR:  "DaBrebis",
+REFERS TO: "t1_d330los",
+TEXT:  "well for batteries check this https://www.youtube.com/watch?v=EvceQ0T80Zc&amp;list=LL3B2phxd3Zw2h5Q3ZKo5CxA&amp;index=1 at 3 mins 
+- they also plan to use electric car batteries to power your homes in the future 
+also you can build hydro stations pretty much anywhere by creating your own power stations and importing water. 
+
+also these are viable aswell
+ Solid State Batteries - a range of electrochemical storage solutions, including advanced chemistry batteries and capacitors
+    Flow Batteries - batteries where the energy is stored directly in the electrolyte solution for longer cycle life, and quick response times
+    Flywheels - mechanical devices that harness rotational energy to deliver instantaneous electricity
+    Compressed Air Energy Storage - utilizing compressed air to create a potent energy reserve
+    Thermal - capturing heat and cold to create energy on demand
+    Pumped Hydro-Power - creating large-scale reservoirs of energy with water
+
+and you can use passive solar to heat your homes and you can build homes so they have passive cooling as well 
+
+there is also energy conservation which could reduce demand and make it easier for renewables  
+
+
+COMMENT_ID: "t1_d330los",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d3300ge",
+TEXT:  "I work as a scientist studying heat transfer and the applications I study many energy applications. To be perfectly frank, the lack of a viable and universal solution to energy storage is pretty unambiguous.
+
+Batteries are definitely not cost-competitive at the moment and progress on that front has been very slow. This hasn't been from a lack of funding or effort but simply from the fact that physics makes it very hard to create a cheap batteries that has high capacity, can be discharged quickly, and used for many cycles.
+
+Outside of batteries, pretty much all storage mechanisms that are in use, such as pumped hydro, are geographically-dependent and cannot be implemented in many parts of the US.
+
+
+COMMENT_ID: "t1_d3300ge",
+AUTHOR:  "DaBrebis",
+REFERS TO: "t1_d32zend",
+TEXT:  "lack of viable solutions",
+
+
+COMMENT_ID: "t1_d32zend",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d32ywau",
+TEXT:  "Are you referring to grid-scale storage being a requirement or the lack of viable solutions?",
+
+REFERS TO: "t1_d32ywau",
+COMMENT_ID: "t1_d32zirz",
+
+
+COMMENT_ID: "t1_d32ywau",
+AUTHOR:  "DaBrebis",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "\"require grid-scale energy storage for which we have no viable solutions\"
+ why do you think this?",
+
+COMMENT_ID: "t1_d33afhu",
+AUTHOR:  "drodin",
+REFERS TO: "t1_d33a91a",
+TEXT:  "It would be much more than matching watts because the ramp-down rate of solar/wind is way higher than the ramp-up rate of peaking plants. Honestly, I've stopped responding to people who claim that energy storage doesn't need to be a part of the solution.",
+
+
+REFERS TO: "t1_d33a91a",
+COMMENT_ID: "t1_d33ao0u"
+
+
+COMMENT_ID: "t1_d33a91a",
+AUTHOR:  "Scottmk4",
+REFERS TO: "t1_d339j8w",
+TEXT:  "Absent energy storage, every watt of installed solar and wind has to be backed by idling fossil fuel plants to ensure the lights don't go out when a cloud rolls in.
+
+Building two parallel systems and idling one all the time is really wasteful and expensive for very dubious savings on any front.",
+
+
+COMMENT_ID: "t1_d339j8w",
+AUTHOR:  "mein_account",
+REFERS TO: "t3_4j1j1j",
+TEXT:  "We don't need grid-scale energy storage.  Just a grid that can switch among available sources on the fly.  If we need to continue using nuclear or natural gas until the storage technology catches-up, fine.
+
+Also, it's not terribly useful to judge whether or not it's possible to get to the benchmarks.  What we need to figure-out is whether we're better off trying to get there versus deciding that we can't.",
+
+
+
+END COMMENTS FOR POSTING

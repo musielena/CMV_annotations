@@ -1,0 +1,558 @@
+POST: 7
+
+TITLE: "CMV: The United States should not drill any oil",
+
+AUTHOR:  "tctimomothy",
+
+BEGIN POSTING: 
+"The United State's policy of increasing oil drilling is misguided. In all practicality, it is counter productive. First of all, the environmental consequences of drilling are intense, ranging from devastating the area to pollutants, to causing geologic instability with fracking techniques. Second, increasing oil production is both functionally and ideologically counter to the renewable energy movement. Third, it provides minimal economic benefit to the US. The most common rationale for expansion of drilling is that it will lower oil prices, but that is a misconception. Oil companies will always sell their oil on the world market, at world prices. We cannot force them to sell their oil at lower US specific costs for obvious reasons.
+sources and examples will be provided on request.
+
+EDIT:
+In order to develop this case further, I offer the following. In the long run, the world will run out of fossil fuels. Honestly, this is a matter of when. This should not be our goal, as a world that is not ready to switch is not a pretty picture. I offer two advantages to stopping US production.
+
+ First, it is not making as large a positive impact than stopping it. See point #3 here http://www.reddit.com/r/changemyview/comments/23svx5/cmv_the_united_states_should_not_drill_any_oil/ch0aqak
+
+any resulting price increase will create an incentive to innovate in renewable technology.
+
+Second, in a fatalistic world view, we will probably fail at the switch anyways. That means that the price of oil will skyrocket. If everyone else has run dry, we set the price, and become insanely rich. This could give us the resources to make the switch at the last possible second, a hallmark of US politics. That is, if we can keep the wealth in the economy and out of CEO's bank accounts.
+END POSTING
+
+
+BEGIN COMMENTS FOR POSTING
+
+
+
+COMMENT_ID: "t1_ch27npz",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0djpm",
+TEXT:  "[Quote] This is an argument against making money or in support of different tax policies, not against oil extraction.
+
+It is just that oil companies are particularly bad on this front
+
+[Quote]Oil companies are quite profitable, but the wealth they generate isn't stagnant; it's either reinvested in the company, invested in other companies or circulated in the economy.
+
+As I have said in other comments this is not the case. I would concede on this point if I saw the actual numbers and evidence that this money flow is not stagnant, but nothing I have seen in my research has shown this.
+
+[Quote]When you think about who is likely to seriously pursue renewable energy, energy companies are prime candidates. To be successful in that venture you'd need capital, market access, infrastructure and political clout; energy companies have these things. So the money that goes to them is likely the same money that will be reinvested in renewable energy as it becomes tenable and profitable.
+
+A company that undermines the most lucrative profit flow in the world when there is a monopolistic control and inelastic demand on most of our economy? Would a profit driven company try to end a profit flow from a resource that gets steadily more profitable as time goes on with a guaranteed buyer? when that buyer will pay any price because of their total dependence? There is only one word for that and it is ridiculous.
+
+[Quote]If millions of people receive cheaper energy and have more money circulating in the economy, they have been helped a great deal
+
+I have shown several times from several perspectives that americans do not benefit from cheaper energy already in this debate. As for money circulation, if I see the proof, I concede on that point, otherwise cross apply previous arguments.
+
+[Quote]The justification is that the US makes money and gets cheaper energy
+
+The US subsidizes domestic oil, so we get more tax money from foreign sources.
+
+[Quote]The restriction of flow is a purely negative incentive because you aren't doing anything positive.
+
+This would be where the government would step in, but unfortunately I don't have enough time to draft an entire economic policy.
+
+
+COMMENT_ID: "t1_ch0djpm",
+AUTHOR:  "Grunt08",
+REFERS TO: "t1_ch0cbs9",
+TEXT:  "[Quote]This brings up another point. This supports the wealth disparity. Oil companies rake in the cash, but most of that does little benefit to US economy, rather ending with executives and stock holders. very little of this incredible wealth trickles down to the blue collar jobs.
+
+This is an argument against making money or in support of different tax policies, not against oil extraction.
+
+More to the point, most of that money is actually reinvested in exploration and development.  Oil companies are quite profitable, but the wealth they generate isn't stagnant; it's either reinvested in the company, invested in other companies or circulated in the economy.  Again, this is good for the economy no matter who you are.
+
+When you think about who is likely to seriously pursue renewable energy, energy companies are prime candidates.  To be successful in that venture you'd need capital, market access, infrastructure and political clout; energy companies have these things.  So the money that goes to them is likely the same money that will be reinvested in renewable energy as it becomes tenable and profitable.
+
+[Quote]From a utilitarian perspective, this is hurting a larger number of people then it is helping.
+
+That just isn't true.  If millions of people receive cheaper energy and have more money circulating in the economy, they have been helped a great deal.  Appealing to a vague perpetuation of wealth disparity doesn't work because that disparity exists because of many factors other than oil companies.
+
+[Quote]This doesn't provide adequate justification for it being specifically US.
+
+The justification is that the US makes money and gets cheaper energy.  If we get it from someone else, that someone else makes money off of us and charges us more than we would otherwise have to pay.
+
+[Quote]I disagree with the statement \"The fact that the price of oil is increasing is enough to spur exploration into alternative energy and we can steer infrastructure expenditures away from petroleum dependencies.\"
+
+You can disagree with the statement, but I don't think you have a very good reason to.  Considering that we're consistently mandating more fuel efficient cars (compelled both by market forces and regulation) and replacing coal power plants with LNG plants, it appears that this is already happening.
+
+[Quote]In addition, this CMV does not advocate shutting off oil flow, so it is not a pure negative incentive. The rising world oil prices with the cut off of US oil (I will concede that it may have a marginal impact on world prices) is exactly the kind of pressure that would make renewable resources viable.
+
+The restriction of flow is a purely negative incentive because you aren't doing anything positive.  You are providing a disincentive to use fossil fuels (via price increase) and nothing else.  That disincentive doesn't magically make other energy sources viable.  You can't just throw your hands in the air one day and buy an electric car when you still owe $10,000 on your F-150 loan and you can't just choose to switch electrical providers because your local plant jacks up prices.
+
+What you're arguing for is essentially a form of self-imposed economic sanction, and those tend to hurt the little people the most.  For example, if gas prices go up .50 per gallon, that's going to hurt me much more than it will hurt BP.  I still have to drive and I can't afford an electric car, so I'll just pay more and drive less.  Meanwhile, BP sells slightly less product while making pretty much the same amount of money.  Restricting the oil market hurts me more than it hurts them.
+
+You might say that there would be an incentive for me to buy something more efficient, but I have just as much incentive to simply adapt to spending more of my money on energy.  Energy isn't a product I can forego and until buying an electric car is more attractive than adapting, I'm just going to adapt.  Oddly enough, the weakness of your restriction means that I will have *more* time to adapt which will make it less likely that I'll convert to something more efficient.
+
+[Quote]The more expensive it is, the more alternatives there are.
+
+And the worse those alternatives are allowed to be.  You're removing the market force that has compelled rapid improvement in hybrid and electric technologies.  Imagine if we stayed the course until electric or hybrid vehicles were competitive in their own right instead of disincentivizing the use of regular cars to the point where an electric car is a viable (though shitty) alternative.",
+
+
+COMMENT_ID: "t1_ch0cbs9",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0btah",
+TEXT:  "[Quote] \"I'm not sure you understood the point. You seem fixated on gas prices when most of what I wrote pertained to the oil money that the US economy would receive from selling said oil. That is an economic benefit to the US irrespective of price or the market where it's sold.\"
+
+This brings up another point. This supports the wealth disparity. Oil companies rake in the cash, but most of that does little benefit to US economy, rather ending with executives and stock holders. very little of this incredible wealth trickles down to the blue collar jobs. Petroleum companies are notorious for this. Increasing the wealth disparity in US companies has a myriad of other negative societal consequences, not the least of which, financial mobility. From a utilitarian perspective, this is hurting a larger number of people then it is helping. The only other chance we have to get a back end out of fossil fuels is on taxes, and those are higher on foreign oil anyway. 
+
+[Quote]...so you agree that natural gas (which is a significant product of fracking) can help us transition, but you don't want to go after it? That doesn't make any sense. If we're going to use it, we need to have it.
+
+This doesn't provide adequate justification for it being specifically US.
+ 
+I disagree with the statement \"The fact that the price of oil is increasing is enough to spur exploration into alternative energy and we can steer infrastructure expenditures away from petroleum dependencies.\"
+
+Our culture is so entrenched in fossil fuels that, as another commenter pointed out, our complete and entire economy depends on it. The companies can essentially charge whatever price they please, and competition does not seem to be a factor because of the ridiculously high demand. In addition, this CMV does not advocate shutting off oil flow, so it is not a pure negative incentive. The rising world oil prices with the cut off of US oil (I will concede that it may have a marginal impact on world prices) is exactly the kind of pressure that would make renewable resources viable. The more expensive it is, the more alternatives there are. 
+
+I claim that point number 1 is basically conceded, just not absolutely in every case.
+
+
+COMMENT_ID: "t1_ch0btah",
+AUTHOR:  "Grunt08",
+REFERS TO: "t1_ch0aqak",
+TEXT:  "[Quote]1)In most cases the drive for profit precludes this managing, and we have categorically failed at it in the past.
+
+That sentence contradicts itself.  If it doesn't preclude in all cases, then we have not categorically failed.  In any case, I think arguing that an environmentally safe drilling operation has *never* happened in the US is a little absurd and the state of Texas would collectively disagree with your assessment.
+
+And again, even \"failures\" in this regard need to be weighed against benefits provided.  There are many who would argue that some environmental damage is worth a few hundred billion in oil money.
+
+[Quote]2) It could, and by increasing oil production, we don't encourage the change. We do not have any market incentive or pressure. at this point to do so. I think that it is a lot more practical to push for reusable energy now, and keep our oil as a backup in case the rest of the world runs out. This way we solve for environmental problems and encourage renewable resources AND still have the energy needed for the transition. I'll tackle fracking in a little bit
+
+...so you agree that natural gas (which is a significant product of fracking) can help us transition, but you don't want to go after it?  That doesn't make any sense.  If we're going to use it, we need to have it.
+
+There are forms of incentive and pressure that aren't the proverbial burning of Cortez's ships.  The fact that the price of oil is increasing is enough to spur exploration into alternative energy and we can steer infrastructure expenditures away from petroleum dependencies.  Cutting our oil supply marginally increases the price of oil without actually aiding the exploration.  Considering that alternative energy isn't going to come from some eureka moment in someone's basement, but rather a long-term capital investment; it's unlikely that a pure negative incentive is going to help very much.
+
+And pushing for reusable energy now really doesn't fix any of our energy issues.  Until we actually have infrastructure that produces electricity from reusable sources, we either get the fuel we need or we do without electricity.  And considering that having renewable energy would sort of negate the need for oil, I don't see the point of preserving it for the \"world running out\" contingency.
+
+[Quote]3) It doesn't provide as much impact as we think it does.
+
+I'm not sure you understood the point.  You seem fixated on gas prices when most of what I wrote pertained to the oil money that the US economy would receive from selling said oil.  That is an economic benefit to the US irrespective of price or the market where it's sold.
+
+And saying that US oil is a \"nonfactor\" is baseless.  The fact that oil production and gas prices have increased simply don't show that because of the global oil market.  More factors go into those price increases than the presence or absence of US oil.  It's likely that if US production hadn't increased, oil prices would've gone up even more precipitously.  It's basic supply and demand: more oil on the market means the price is less than it would've been otherwise (but not necessarily lower than it was before).",
+
+
+COMMENT_ID: "t1_ch0da6o",
+AUTHOR:  "Pinewood74",
+REFERS TO: "t1_ch0aqak",
+TEXT:  "[Quote]We already know that US oil has no effect on on #1
+
+We do?  How is 10% of the world's oil supply going to have no effect on supply and demand?
+
+And why will not drilling help the environment when you are still going to be doing it somewhere, presumably with less environmental oversight causing more pollutants to be released.",
+
+
+COMMENT_ID: "t1_ch0aqak",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch09xyl",
+TEXT:  "1) In most cases the drive for profit precludes this managing, and we have categorically failed at it in the past.
+
+2) It could, and by increasing oil production, we don't encourage the change. We do not have any market incentive or pressure. at this point to do so. I think that it is a lot more practical to push for reusable energy now, and keep our oil as a backup in case the rest of the world runs out. This way we solve for environmental problems and encourage renewable resources AND still have the energy needed for the transition. I'll tackle fracking in a little bit
+
+3) It doesn't provide as much impact as we think it does. If we take gas prices as an example, the reasons gas prices are high is from 1. Global supply and demand 2. Taxes by the government 3. Costs of refining 4. Distrubution and local costs. We already know that US oil has no effect on on #1, #2 will not be affected if we have large production or low, so it is a moot point, #3 We pay that cost anyways, no matter where the oil comes from. #4 should be where US oil makes its impact, but that is simply not the case. The transportation is not as big a factor as expected either, because oil has to be distributed across the country either way, and the cost of piping it in from Canada is minimal (that is where most oil comes from in the US). So US oil is a nonfactor in all of these cases and even though oil production is on the rise, gasoline prices have skyrocketed:
+see the following graphs
+http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=MCRFPUS1&amp;f=M
+http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=pet&amp;s=emm_epm0_pte_nus_dpg&amp;f=m",
+
+
+REFERS TO: "t1_ch09xyl",
+COMMENT_ID: "t1_ch0ihi5",
+
+
+COMMENT_ID: "t1_ch09xyl",
+AUTHOR:  "Grunt08",
+REFERS TO: "t3_23svx5",
+TEXT:  "1) There *can* be significant environmental consequences with some forms of drilling.  Those can be managed on the one hand and must be measured against prospective benefit on the other.
+
+2) The \"renewable energy movement\" is a nice idea, but it isn't going to readily provide us with gasoline for cars or natural gas for heating and cooking in the near future.  Until they can do that, we need energy we can use.  Oddly enough, fracking tends to offer a high yield of natural gas, which is cleaner than oil and could help us transition to more stable energy sources.
+
+3) It provides considerable economic benefit to the US.  When the US produces a resource, it produces value.  Whether we sell it or use it domestically, we make money that stays in or enters the US.  That's a good thing.  And while domestic production wouldn't affect per barrel price very much, cuts in transportation overhead could reduce prices at the pump or on the utility bill.",
+
+
+COMMENT_ID: "t1_ch1h2ia",
+AUTHOR:  "very_old_guy",
+REFERS TO: "t1_ch19wes",
+TEXT:  "[Quote] we are doubling down on producing oil, which increases our dependence even more, while at the same time trying to leave it behind. 
+
+We are not increasing our dependence on oil.  U.S. oil consumption has actually decreased in recent years.  That's partly due to the economic turndown, but it's also due to increasing auto efficiency standards and increased use of biofuels.  (Fuels derived from crops are hugely problematic, but that's another issue).
+
+[Quote]How much of that $400 billion actually improves the US? A significant chunk of that money is held overseas. 
+
+Do you not think the U.S. benefits from reducing our trade deficit?  Normally people think it's a bad thing when hundreds of billions of dollars per year leave our country.  Do you not agree?
+
+[Quote]Profits that are not eaten up by those investors ...
+
+What's wrong with investors making money?  
+
+[Quote]... go towards exploration for more oil, which is a pretty insignificant impact (maybe 5 geologists on a one of job?).
+
+The oil and gas industry supports 9 million jobs domestically.  Investment in domestic O&amp;G exploration and production is tens of billions of dollars per year.  That investment supports a vast array of products and services, from equipment manufacturers to environmental services to the guy selling breakfast tacos at the drilling site.
+
+[Quote]Most fossil fuels jobs are blue collar, and increasing those are bad societally.
+
+My office has several thousand well-paid white collar workers.. but yes the industry supports lots of blue collar jobs as well.  Those are six-figure jobs that don't require a college education.  Why do you think blue collar jobs are bad for society?  Isn't the reddit consensus that we need *more* good paying jobs that don't require college?
+
+[Quote]Fracking is so destructive that it out weighs the benefits.
+
+Fracking is not new technology.  It has been happening for decades.  Only recently have people starting raising a fuss over it, despite plenty of government studies saying it is fairly harmless.  The benefits accruing to the U.S. from the fracking boom will be in the trillions of dollars, so I'd be interested in hearing more about the destruction that outweighs that.
+
+[Quote]I am not convinced however, that a supply cushion would help prices, because all the oil is on the world market, not ours.
+
+A cushion keeps prices stable, preventing spikes.  Recall a few years ago, the price would jump every time Ahmadinejad said something crazy or there was unrest in Nigeria.  A few years ago, an incident like the Crimea takeover would send prices soaring, but nowadays the reaction is muted.
+
+You are quite right that increasing domestic supply doesn't help oil prices.  It does, however, help natural gas prices, which will be a tremendous boon to the economy.  One could argue that sustaining elevated oil prices while deflating nat gas prices is ideal from an environmental standpoint.  A high oil price keeps up the pressure to seek alternatives for motor fuel.  A low nat gas price enables us to displace coal-fired electric power generation with natural gas electric generation, which yields a twofold benefit:  it cuts the carbon emissions in half, and it is ideal peaking generation to offset the instability inherent in wind and solar power.
+
+[Quote]I see this as a non issue because we already have 60+ years of infrastructure in place.  Either way distribution will be online, and starting to drill will not be difficult. 
+
+The infrastructure in place is different than the infrastructure that is needed to take advantage of the newly discovered resources.  That's why we are spending tens of billions of dollars *per year* to develop those resources and bring them to market.  If there was a sudden, major supply shock, we wouldn't be able to just throw a few trillion dollars at it and have millions of barrels of oil production the next day.",
+
+
+COMMENT_ID: "t1_ch19wes",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0lxtk",
+TEXT:  "The ideological support for the OP is that when we are trying to switch to renewable resources, we are doubling down on producing oil, which increases our dependence even more, while at the same time trying to leave it behind. You don't quit smoking by buying more cigarettes. The objection is not necessarily a moral one. (Also oil drilling is their choice; National sovereignty).
+
+1. There are several reasons that this industry actually benefits us. How much of that $400 billion actually improves the US? A significant chunk of that money is held overseas. Profits that are not eaten up by those investors go towards exploration for more oil, which is a pretty insignificant impact (maybe 5 geologists on a one of job?). Most fossil fuels jobs are blue collar, and increasing those are bad societally.
+
+2. Fracking is so destructive that it out weighs the benefits.
+
+3. I actually agree, but we still have plenty of leverage seeing as we have the largest economy in the world. I am not convinced however, that a supply cushion would help prices, because all the oil is on the world market, not ours.
+
+4. I see this as a non issue because we already have 60+ years of infrastructure in place. Either way distribution will be online, and starting to drill will not be difficult. it also encounters the same problem as #3.",
+
+
+COMMENT_ID: "t1_ch0lxtk",
+AUTHOR:  "very_old_guy",
+REFERS TO: "t3_23svx5",
+TEXT:  "In your OP you mention ideological support for renewable energy development, yet throughout the thread you make it clear you have no objection to consuming oil produced elsewhere and thereby externalizing some of the environmental impact.  How do you reconcile these contradictory positions?  It's inconsistent to take an ideological stand against oil production yet be okay with others producing on your behalf and bearing the brunt of the environmental cost.
+
+Anyway, the best arguments for producing more oil in the U.S. are:
+
+1.  It immediately improves our trade imbalance.  Why pay $400 Billion per year to other countries when we can produce the oil domestically and keep those dollars here?  Hate on fat cat CEOs all you like, but I would rather keep the millions of high-paying jobs provided by the oil industry instead of letting some other country have them.  I would rather have all those billions of dollars paid to Exxon and Chevron, fattening the 401(k)s of U.S. citizens and not some other country's sovereign wealth fund.   
+2.  With oil production inevitably comes natural gas production.  Thanks to the boom brought on by fracking, the U.S. has the cheapest nat gas in the world.  It's cheap enough that, for energy-intensive manufacturing, it more than offsets the higher U.S. labor costs.  Chemical and fertilizer companies are re-shoring as fast as they can, and other industries are right on their heels.  It will take a few years, but this too will tremendously improve the trade balance and add more high-paying jobs.
+3.  Geopolitical leverage.  As we produce more oil here, what happens in Iran, Saudi Arabia and Russia becomes less important.  I'm not naively suggesting we can ignore them.  But, for example, with a sufficient supply cushion, Iran can no longer rattle the world's cage and send the price of oil soaring like it once did.  If we can reach the point where we have robust nat gas export capability, Russia will no longer be able to hold Europe hostage.  It would sure be nice not to have to kowtow to the House of Saud.  Etc.
+4.  We will eventually transition to other energy sources, but the transition will be long and very expensive.  In the mean time, there may well be supply shocks and extended periods with much tighter supply/demand balance than we currently see.  So much the better, then, that we already have well-developed energy sources and infrastructure so that we're not caught off guard and scrambling when those times come, because that infrastructure takes years to develop.",
+
+
+COMMENT_ID: "t1_ch1cziz",
+AUTHOR:  "TheNorfolk",
+REFERS TO: "t1_ch1abvx",
+TEXT:  "[Quote]I don't know why the military is being rendered ineffective, seeing as we would still be receiving oil anyways.
+
+Fair point, however the US could get cut off from all oil relatively easily without a national supply. It leaves a glaring hole in US defensive foreign policy.",
+
+
+COMMENT_ID: "t1_ch1abvx",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0hj7x",
+TEXT:  "First, with the end of drilling, we only lose the jobs directly in extraction, as refining is done here, and that would continue. The other jobs could move to other industries, several of which would utilize that kind of labor. Thus, we don't see anything like widespread employment at this prospect.
+
+Second, the US government spends literally billions on subsidizing US oil, and puts tariffs on the imported stuff. We get more tax money from foreign oil anyways.
+
+Third, the world market has an inelastic demand, so it does not follow normal supply-demand procedures. That cost increase is not guaranteed, and likely won't happen at all.
+
+As I have shown in other comments, Oil money has little actual benefit to the US economy anyways.
+
+I don't know why the military is being rendered ineffective, seeing as we would still be receiving oil anyways.",
+
+
+COMMENT_ID: "t1_ch0hj7x",
+AUTHOR:  "TheNorfolk",
+REFERS TO: "t3_23svx5",
+TEXT:  "The oil industry is huge, the US gets tax dollars and other economic benefits from oil drilling. Forcing the oil companies to shut down plants would cause widespread unemployment and make the markets associated with oil very unstable. 
+
+Oil is a fairly cheap source of energy in comparison to renewables and is a vital component to many other machines and industries in the US and globally. Halting oil production would make it harder and more expensive to buy internationally, it would drive up costs if renewables were used or it would straight up force companies to shut down. All three could wipe out entire industries, further impacting the economy.  
+
+Then there's the fact that buying from overseas hurts the national economy two fold since rather than making and selling the oil for a price, you'd be buying for that price.
+
+**Oh, almost forgot this one, if the US has no oil then it's military becomes ineffective and would put the US at huge risk. The fall of a major super power would massively change global politics and would probably lead to WWIII, the US would either be taken over or torn apart and could lead to nuclear war. **
+
+There's a shit tonne of other affects I don't know enough about to touch on but rest assured, the US would suffer if this happened. ",
+
+
+COMMENT_ID: "t1_ch28spj",
+AUTHOR:  "funmaker0206",
+REFERS TO: "t1_ch27r4i",
+TEXT:  "The problem is that it isn't because all you would end up doing is causing us to import more oil not use less of it. If we had electric semis this would work but since we don't and a large portion of our economy depends on the transportation of goods economically it would hurt us an would potentially slow renewable energy development. After all how are you going to transport the materials to a solar panel manufacturer if they have no gas. ",
+
+
+COMMENT_ID: "t1_ch27r4i",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0dd1e",
+TEXT:  "[Quote] Your adding an unnecessary extra step where there is no way that you benefit anyone.
+
+This extra step is outweighed by the rest of my case; see environmental issues and renewable energy incentive.
+
+I don't have a problem with nuclear, or using fossil fuels in general. I just think that it is overall in the US's best interest to stop oil drilling.
+
+
+COMMENT_ID: "t1_ch0dd1e",
+AUTHOR:  "funmaker0206",
+REFERS TO: "t1_ch0cxa8",
+TEXT:  "1. Yes but you need to remember that some companies are located where they are because of transportation costs, such as a petroleum distributor being located next to an oil drilling hot spot. Now these companies have to have their oil shipped cross country before they can be refined and THEN shipped of to gas stations. Your adding an unnecessary extra step where there is no way that you benefit anyone.   
+2. Read the edit on my original post about renewable energy. In it's current state the best progression for renewable energy is research. However as mentioned above even in the best case scenarios you won't come close to nuclear or fossil fuels.   
+3. Continuing from the last point on nuclear. This area of energy has a lot of negative vibes towards it (which it shouldn't) despite the fact that U.S. reactors are much safer than other countries. Again in order to have a long term solution to these claims (i.e. waste, potential for meltdowns), it requires research which takes time.   
+
+What your essentially saying is that we should stop using computers all together so that quantum computing can become a thing. Your overlooking the fact that the computers, or oil in this case, are required to reach that next era of energy.",
+
+
+COMMENT_ID: "t1_ch0cxa8",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0cr60",
+TEXT:  "We have to pay the cross country transport cost anyway, and any other overhead creates market pressure towards renewable resources.",
+
+
+COMMENT_ID: "t1_ch0cr60",
+AUTHOR:  "funmaker0206",
+REFERS TO: "t1_ch0ce32",
+TEXT:  "Okay that still isn't making much of a difference. There are still import taxes that companies will have to deal with from the other 50%. The U.S. is big so you will still have to ship that oil all over the country which will require oil to transport. ",
+
+
+COMMENT_ID: "t1_ch0ce32",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0bsrt",
+TEXT:  "Remember we get over 50% of our oil from canada, which is not over seas.",
+
+
+COMMENT_ID: "t1_ch0bsrt",
+AUTHOR:  "funmaker0206",
+REFERS TO: "t1_ch0bok1",
+TEXT:  "Buying from other countries wouldn't be as bad but it would still cause energy prices to shoot up across the country as well as the goods that we produce. You need to remember that this would cause trucking companies to ship oil from over seas rather than shipping it from a near by oil driller. This alone is counter productive because now your wasting more petroleum because of shipping. ",
+
+
+COMMENT_ID: "t1_ch0bok1",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0bc0r",
+TEXT:  "Right, so we solve that by buying from other countries. I need proof that it has to be US fossil fuels and not someone else's.",
+
+
+COMMENT_ID: "t1_ch0bc0r",
+AUTHOR:  "funmaker0206",
+REFERS TO: "t3_23svx5",
+TEXT:  "The main problem with your argument is that you are overlooking the benefits that fossil fuels provide to our economy (you mentioned oil but for the sake of the argument all fossil fuels could be included).   
+  
+The problem with completely stopping oil drilling is that our entire economy relies on it in one way or another. In most cases it is the form of power which comes from coal. After all it is kind of hard to run a business with no power of any form. However companies also depend on the resources needed for their products. The vast majority of these products come from trucking companies which depend on petroleum. So while it would be amazing to run our county off of nuclear and a bit of renewables, the U.S. doesn't have the infrastructure required to do that today.  
+  
+The alternative is to develop the required infrastructure and go from there. However being the capitalist society that we are, maximum gains drive businesses and currently that means fossil fuels.  
+  
+This out look isn't likely to change unless, one, the U.S. turns into China and forces its researchers to push nuclear or, two, a company finds a way to compete toe to toe with a company using fossil fuels.  
+  
+TL;DR If the U.S. stopped oil production virtually every sector of out economy would collapse. The withdrawal has to be progressive.  
+  
+Source: I'm a mechanical engineering student going into energy.  
+  
+Edit: I should also add this post that I made a few days ago on a different thread. I went through the calculations on why renewable energy can't provide all of the energy that we need.  
+  
+[Quote]So a semi-realistic goal is to have the U.S. be 50% renewable by the year 2050. By this time the U.S. can be expected to consume 8.6 terawatt years (citation needed) so 4.3TWy is renewable. Okay so now what do we need to do each year to reach this goal. Well we have to add about 120GWy in renewable with either bio fuel, hydroelectric, solar, or wind. Hydroelectric can't expand any more than it already has so that's out. Solar at 880 W/m2 equals about .88 GWy/km2 or 136 km2 per year till 2050 (assuming they have a max output at all times aka no clouds). This is also assuming a massive breakthrough with solar technology where they can reach 80% efficiency in the next year (they're only at 40% max now, 20% for commercial use). But you said there needed to be a mix so lets throw wind in. With a 20% efficiency (which is insane) and 150m diameter one wind turbine only produces .0021GW. Now your left with bio fuel, which again takes up land, and geothermal which is just as inefficient if not more than wind and requires a lot of drilling.
+
+[Quote]The bottom line is figuring out the problems with nuclear energy is the only way that we are able to produce enough energy and food for everyone without choking on ridiculous amounts of CO2.
+
+[Quote]Edit: I should also note that with the solar estimations that is assuming the solar panel is perpendicular to the sun at all times. So simply putting them on peoples roofs would yield a much lower result unless you also attached a mechanical system with servos that turned the panels to follow the sun. But this would cost a lot more so good luck",
+
+
+COMMENT_ID: "t1_ch29x1y",
+AUTHOR:  "atrde",
+REFERS TO: "t1_ch27uga",
+TEXT:  "\"According to the Energy Information Administration, transportation (gasoline, diesel, jet fuel, etc.) accounts for about 2/3 of the oil we use in the United States. Gasoline for cars, SUV’s and light trucks accounts for roughly 45% of the oil we use.\" Lines up with you 70% number and my 50% number.  I cannot find a breakdown of commercial vs personal use but I would bet commercial use edges out personal use in total miles, plus trucks are not as efficient as cars.  As for my last part, well all of those factors affect oil prices here is 
+ 
+Libya: http://finance.yahoo.com/news/why-unrest-libya-persistently-disrupted-180632157.html
+
+Ukraine: http://www.theaustralian.com.au/business/latest/oil-prices-climb-on-ukraine-fears/story-e6frg90f-1226896645046
+
+Egypt: http://www.telegraph.co.uk/finance/oilprices/10244435/Egypt-unrest-pushes-oil-price-above-111-a-barrel.html
+
+And a drop thanks to Iran: http://oilprice.com/Alternative-Energy/Nuclear-Power/The-Iranian-Nuclear-Deal-and-Its-Effect-on-Oil-Markets.html
+
+My last part is just speculation but as noted in the Ukraine article, record US stockpiles are keeping prices from skyrocketing.  Stopping our production would be devastating.
+
+Finally my last part is speculation but I think we can assume that a 10% drop in supply would effect the price.  There is no accurate way to predict how much it would be effected(affect?, I can do economics not grammar).  The high point for oil a couple years ago was $140 a barrel, but it dropped quickly down to its current level of $100 a barrel.  That was due to Iran- Israel issues among other unrest that lead to the $140 price.  If we knew for sure that production would drop by %10 indefinitely how do you think that would affect the market?",
+
+
+COMMENT_ID: "t1_ch27uga",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch1cqfa",
+TEXT:  "I'm going to need sources on this one.",
+
+
+COMMENT_ID: "t1_ch1cqfa",
+AUTHOR:  "atrde",
+REFERS TO: "t1_ch19gtq",
+TEXT:  "I didnt include jet fuel in my 50%, we are nowhere close to planes running on renewable energy( passenger ones)
+ Also remember those transportation costs are part of production costs. I would bet more of that fuel goes to commercial and industrial needs than personal cars amd trucks. Also if we are projected to be the world leader and just stop producing oil that still effects prices. Saying supply and demand doesnt effect prices because prices are high is wrong. The Ukraine crisis, Libya, Egypt, Iran, and increasing demand around the world are currently effecting prices. Reducing world oil production by 10% will raise the price I don't think you can argue that. Even a 10% increase would have massive effects.",
+
+
+COMMENT_ID: "t1_ch19gtq",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0ndwb",
+TEXT:  "1) The US contributes about 9.97% of the worlds oil. This is after a significant uptick in production over the past several years. Even though we have increased our production and are projected to become the world leader by 2020 (showing that in the future much more oil will come from us), and the rest of the world is increasing production as well, oil simply are not lowering like they should. That is because the world market does not operate on the simple supply-demand system we are used to. We have a case of inelastic demand. This means that because the commodity is so essential, we will pay essentially any price for it, no matter the supply. It is our entire economy in some form or another. 
+
+TL;DR even with increased volume, it wont affect our futures because of the nature of the market 
+
+2) That number is based on speculation. Here are some real ones.
+
+* Transportation - 70%
+* Industrial - 24%
+* Residential / Commercial - 5%
+* Electricity - 1%
+
+source: http://www.instituteforenergyresearch.org/energy-overview/petroleum-oil/
+
+Transportation is the biggest draw, and as I explained here(http://www.reddit.com/r/changemyview/comments/23svx5/cmv_the_united_states_should_not_drill_any_oil/ch0aqak) US oil has no significant effect there. The other areas can absorb those costs, and they are not nearly volatile enough to increase in price anywhere as high as you suggest. The extra price is out weighed by the environmental concerns.",
+
+
+REFERS TO: "t1_ch0ndwb",
+COMMENT_ID: "t1_ch0si1n",
+
+
+COMMENT_ID: "t1_ch0ndwb",
+AUTHOR:  "atrde",
+REFERS TO: "t3_23svx5",
+TEXT:  "Few points 1) Oil prices are based on future supplies, if the US just stopped drilling the price would skyrocket around the world because the future supply would drop.
+
+2) I believe about 50% of oil is used for cars, houses etc. The rest goes to plastics and many other chemicals. Including increased manufacturing and transportation costs prices of every product would increase. 
+
+3) Even if we gave ourselves 10 years to convert to renewable energy ( not reasonable) the end of drilling would still increase the price of most products, this isn't good for the middle class and poor.
+
+Your view falls apart because you don't understand commodity markets and you havent considered all the economic effects. Ending drilling would increase the price of everything by I wouldn't doubt double. Can you afford to double your living expenses?
+
+Edit: http://www.eccos.us/what-is-oil-used-for read this. This shows how dependent we are on oil. Especially the point where if we removed every car we would still need to import oil. Imagine the effect on prices.",
+
+
+COMMENT_ID: "t1_ch1a110",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0hr2e",
+TEXT:  "Which is fine because, if that is the case, we still have our environment intact. Win-Win. That was a worst case scenario, not a goal I was describing.",
+
+
+COMMENT_ID: "t1_ch0hr2e",
+AUTHOR:  "matthona",
+REFERS TO: "t3_23svx5",
+TEXT:  "everyone else isn't gonna run dry at the same time, they will just slowly produce less and less, slowly forcing the price higher.. resulting in solar and nuclear and other alternatives as cheaper options, which in turn reduce the demand for oil and lowering the price... there will be nobody getting rich by trying to be the last country with oil, by the time everyone else has run out, there will be very little demand for it, as other means of energy will have taken over",
+
+
+COMMENT_ID: "t1_ch27tmi",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0gy0k",
+TEXT:  "Well, we don't have jurisdiction in other countries affairs, it brings up issues of sovereignty. Our local environments should be our top priority. ",
+
+
+COMMENT_ID: "t1_ch0gy0k",
+AUTHOR:  "zzzev",
+REFERS TO: "t1_ch0eivy",
+TEXT:  "Wouldn't it make the global environment worse, though? It would increase drilling in other countries, nearly all of which have much lower environmental standards than the US. ",
+
+
+COMMENT_ID: "t1_ch1iiho",
+AUTHOR:  "RedditReddiRedd",
+REFERS TO: "t1_ch19h7u",
+TEXT:  "Explain, if we're just switching oil providers, how is that helping the environment?",
+
+
+COMMENT_ID: "t1_ch19h7u",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0mwxi",
+TEXT:  "Yes we are.",
+
+
+COMMENT_ID: "t1_ch0mwxi",
+AUTHOR:  "RedditReddiRedd",
+REFERS TO: "t1_ch0eivy",
+TEXT:  "Does it though? It seems like we're just switching oil providers.",
+
+
+COMMENT_ID: "t1_ch0f1co",
+AUTHOR:  "deleted",
+REFERS TO: "t1_ch0eivy",
+TEXT:  "I can, to a point, understand the saving the environment part. I've read the OP, but I don't see where it address the fact that international oil markets are determined by price fixing, not supply and demand.
+
+I also disagree that we will run out of fossil fuels. Eventually we they will become so scarce that we need to innovate (what you're proposing). We will eventually switch to the next big thing, at which point we won't need the remaining oil. I don't believe for a second that we'll wait until all oil is gone to switch. Then oil, like horses, will be a former resource.",
+
+
+COMMENT_ID: "t1_ch0eivy",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0dsys",
+TEXT:  "Saves our enviroment, and better preps for the future. See the OP.",
+
+
+REFERS TO: "t1_ch0dsys",
+COMMENT_ID: "t1_ch0e60c",
+
+
+COMMENT_ID: "t1_ch0dsys",
+AUTHOR:  "deleted",
+REFERS TO: "t1_ch0cck3",
+TEXT:  "
+You claimed in the post that an increase in price will create an incentive to innovate green technology. The problem is that oil producing countries rig the market by limiting production. An increase in price means oil producers will produce more until the price becomes stable.
+
+Once this happens, the world will be producing the same amount of oil anyways. Canada and Mexico would love to sell us their oil. What would that accomplish?",
+
+
+COMMENT_ID: "t1_ch0cck3",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0bwoi",
+TEXT:  "This CMV does not advocate stopping all oil flow, only the US contribution.",
+
+
+REFERS TO: "t1_ch0bwoi",
+COMMENT_ID: "t1_ch0g4n4",
+
+
+COMMENT_ID: "t1_ch0bwoi",
+AUTHOR:  "deleted",
+REFERS TO: "t3_23svx5",
+TEXT:  "Where will our energy needs come from? Germany is going all-in for green energy. They've found it to be expensive as fuck, and their greenhouse emissions are actually increasing. If the US saw a similar increase in energy prices, I couldn't afford my house.",
+
+
+COMMENT_ID: "t1_ch19zrn",
+AUTHOR:  "tctimomothy",
+REFERS TO: "t1_ch0ksag",
+TEXT:  "The problem is, drilling for oil does not actually lower costs. I explained here(http://www.reddit.com/r/changemyview/comments/23svx5/cmv_the_united_states_should_not_drill_any_oil/ch19gtq) 
+
+(sorry just didn't want to retype it)",
+
+
+COMMENT_ID: "t1_ch0ksag",
+AUTHOR:  "criickyO",
+REFERS TO: "t3_23svx5",
+TEXT:  "As far as the \"movement\" goes, consider how far we've come in such a short while regarding zero-fuel-cost energy.  Soon after settling land, America utilized dams and hydroelectric.  This accounts for a large portion of existing renewable fuel.  In states that use hydro, electricity costs are way down. 
+
+As far as solar goes, we've only recently managed to improve efficiency from poor (~15 - 20%) to at best, a little under 50%.  While this is nowhere near ideal, the progress is promising.  The problem here is, currently solar energy is not capable of taking on mass capacities.  It's important to understand that this is due to our current state of technology and nothing else.  The amount of influence 'big oil' has on 'big solar' has nothing to do with the capacity our scientists have to optimize efficient green tech.  Until the technology reaches a certain point, solar can only do so much.
+
+Now, what is also important is understanding what it CAN do.  Currently, using solar capacity to account for SOME total generation in fact cuts the cost of using oil.  This is the main driver behind mixed-energy portfolios where oil companies supplement energy generation with solar farms.  The companies that implement hybrid energy generation have the edge in the energy industry because they are using solar at its best energy-unit/$ rate given the state of technology.
+
+Solar and wind are in no position to replace non-renewable energy, cold-turkey, but smart business models will implement them as they become more and more feasible.  While this happens, oil is still needed.  For the meantime, the more EFFICIENT renewable fuel we have, the less oil will cost, and the less oil costs, the more we will need it until renewable energy is capable of being close to if not 100% efficient.
+
+There is no \"movement\" in the revolutionary sense, because integration has already begun.  We just don't typically notice because it's moving at the pace dependent on the progress of solar tech.  Keywords: super capacitor, graphene, energy capacity.  IIRC some ivy league also recently figured out how to improve solar panel efficiency.  The movement isn't hindered by big oil as much as we'd like to think it is.  In fact, we still need oil to supplement solar tech growth.  With that in mind, drilling for oil to lower costs and increase reserve life can benefit the growth of renewable energy.",
+
+
+COMMENT_ID: "t1_ch0i1om",
+AUTHOR:  "jtkme",
+REFERS TO: "t3_23svx5",
+TEXT:  "Those who don't learn from history are doomed to repeat it. The 1973 OPEC oil embargo hugely damaged the US economy when we weren't able to meet our own demand. The US should drill its own oil so as not to depend on foreign sources.",
+
+
+COMMENT_ID: "t1_ch0goon",
+AUTHOR:  "joe_craw",
+REFERS TO: "t3_23svx5",
+TEXT:  "The United States has relatively strict environmental laws compared to other oil-producing nations. It would be better for the world's environment for America to produce the fossil fuels we consume than to shift our demand onto the world economy and incentivize heavier polluters to drill more.
+
+Also, this is not readily apparent, but the United States' method of oil production is less efficient than that of Saudi Arabia and other nationalized oil regimes. This is because landowners in America generally have a right to drill for oil on our land. This results in lots of small wells in an oil field where a middle eastern country may have one or two. America's system depletes the pressure in a field much more quickly than the middle eastern approach, stranding a higher percentage of the field's oil deposits in the ground.
+
+Therefore, for every drop of the world's oil America produces instead of another country, more oil is locked away in the ground for all eternity resulting in a benefit for the world environment. ",
+
+
+COMMENT_ID: "t1_ch0mumr",
+AUTHOR:  "RedditReddiRedd",
+REFERS TO: "t3_23svx5",
+TEXT:  "[Quote]If everyone else has run dry, we set the price, and become insanely rich.
+
+That will take a long time. Meanwhile, we will be accumulating a massive amount of debt, and that debt will grow due to interest rates. In addition to being swamped in debt, if we don't build any infrastructure and create experienced workers over here, we will not be able to make a quick switch. It takes years to create the necessary infrastructure/workers, and it takes years for them to gain experience. This will not make us influential, all it will do is make us reliant on corrupt countries that are against fundamental parts of our democracy.
+
+edit: Also, it's likely that if we don't build oil infrastructure over here, we won't create green-energy source immediately but instead start buying from other countries.",
+
+
+COMMENT_ID: "t1_ch0gd0g",
+AUTHOR:  "IllinoisLawyer04",
+REFERS TO: "t3_23svx5",
+TEXT:  "You can't create enough facilities that can harness renewable energy without using fossil fuels to create them.  Building solar panels etc requires a lot of energy.  ",
+
+
+
+END COMMENTS FOR POSTING

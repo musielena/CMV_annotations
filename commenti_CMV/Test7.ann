@@ -1,0 +1,424 @@
+T1	MajorClaim 24 66	The United States should not drill any oil
+T2	Claim 117 182	The United State's policy of increasing oil drilling is misguided
+T3	Premise 205 229	it is counter productive
+R1	supports-termination_setting_up Arg1:T3 Arg2:T2	
+T4	Premise 245 406	the environmental consequences of drilling are intense, ranging from devastating the area to pollutants, to causing geologic instability with fracking techniques
+T5	Premise 416 521	increasing oil production is both functionally and ideologically counter to the renewable energy movement
+T6	Premise 533 576	provides minimal economic benefit to the US
+R2	supports-definitional Arg1:T4 Arg2:T3	
+R3	supports-definitional Arg1:T5 Arg2:T3	
+R4	supports-definitional Arg1:T6 Arg2:T3	
+T7	Modal 775 781	cannot
+A1	POS T7 verbconcurrence
+T8	Modal 842 849	obvious
+A2	POS T8 adjconcurrence
+T9	Claim 668 691	that is a misconception
+T10	Premise 693 770	Oil companies will always sell their oil on the world market, at world prices
+T11	Premise 772 857	We cannot force them to sell their oil at lower US specific costs for obvious reasons
+R5	linked-support Arg1:T11 Arg2:T10	
+R6	supports-causal Arg1:T10 Arg2:T9	
+R7	supports-alternatives Arg1:T9 Arg2:T1	
+T12	Claim 1000 1037	he world will run out of fossil fuels
+T13	Claim 1076 1102	his should not be our goal
+T14	Premise 1107 1166	a world that is not ready to switch is not a pretty picture
+R8	supports-termination_setting_up Arg1:T14 Arg2:T13	
+T15	Modal 1080 1086	should
+A3	POS T15 verbconcurrence
+T16	Claim 1168 1216	I offer two advantages to stopping US production
+T17	Premise 1229 1289	it is not making as large a positive impact than stopping it
+T18	Premise 1291 1416	See point #3 here http://www.reddit.com/r/changemyview/comments/23svx5/cmv_the_united_states_should_not_drill_any_oil/ch0aqak
+R9	supports-complex Arg1:T18 Arg2:T17	
+R10	supports-mereorogical Arg1:T17 Arg2:T16	
+T19	Premise 1522 1593	in a fatalistic world view, we will probably fail at the switch anyways
+T20	Premise 1595 1643	That means that the price of oil will skyrocket.
+T21	Premise 1647 1716	everyone else has run dry, we set the price, and become insanely rich
+T22	Modal 1723 1728	could
+A4	POS T22 verbconcurrence
+R11	linked-support Arg1:T19 Arg2:T20	
+R12	supports-causal Arg1:T20 Arg2:T21	
+T23	Claim 4624 4732	This is an argument against making money or in support of different tax policies, not against oil extraction
+T24	Claim 4338 4619	[Quote]This brings up another point. This supports the wealth disparity. Oil companies rake in the cash, but most of that does little benefit to US economy, rather ending with executives and stock holders. very little of this incredible wealth trickles down to the blue collar jobs
+R13	simple-attack Arg1:T23 Arg2:T24	
+T25	Claim 5474 5566	From a utilitarian perspective, this is hurting a larger number of people then it is helping
+T26	Claim 5881 5953	This doesn't provide adequate justification for it being specifically US
+T27	Claim 4872 4910	he wealth they generate isn't stagnant
+T28	Premise 4912 5007	it's either reinvested in the company, invested in other companies or circulated in the economy
+R14	supports-definitional Arg1:T28 Arg2:T27	
+T29	Claim 5017 5067	this is good for the economy no matter who you are
+R15	supports-causal Arg1:T28 Arg2:T29	
+T30	Claim 5072 5182	When you think about who is likely to seriously pursue renewable energy, energy companies are prime candidates
+T31	Premise 5185 5287	To be successful in that venture you'd need capital, market access, infrastructure and political clout
+T32	Premise 5289 5324	energy companies have these things.
+R16	linked-support Arg1:T32 Arg2:T31	
+R17	supports-causal Arg1:T31 Arg2:T30	
+T33	Modal 5224 5228	need
+A5	POS T33 verbconcurrence
+T34	Claim 5571 5592	That just isn't true.
+R18	simple-attack Arg1:T34 Arg2:T25	
+T35	Premise 5594 5721	If millions of people receive cheaper energy and have more money circulating in the economy, they have been helped a great deal
+R19	supports-causal Arg1:T35 Arg2:T34	
+T36	Claim 5958 6027	The justification is that the US makes money and gets cheaper energy.
+R20	simple-attack Arg1:T36 Arg2:T26	
+T37	Premise 6029 6156	If we get it from someone else, that someone else makes money off of us and charges us more than we would otherwise have to pay
+R21	supports-causal Arg1:T37 Arg2:T36	
+T38	Claim 6424 6468	I don't think you have a very good reason to
+T39	Claim 6168 6376	I disagree with the statement \"The fact that the price of oil is increasing is enough to spur exploration into alternative energy and we can steer infrastructure expenditures away from petroleum dependencies
+R22	simple-attack Arg1:T38 Arg2:T39	
+T40	Claim 6383 6419	You can disagree with the statement,
+R23	concession Arg1:T40 Arg2:T38	
+T41	Modal 6387 6390	can
+A6	POS T41 verbentertain
+T42	Claim 6656 6681	this is already happening
+R24	simple-support Arg1:T42 Arg2:T38	
+T43	Evidential 6643 6650	appears
+A7	POS T43 verbpronouncement
+T44	Premise 6488 6638	we're consistently mandating more fuel efficient cars (compelled both by market forces and regulation) and replacing coal power plants with LNG plants
+R25	supports-causal Arg1:T44 Arg2:T42	
+T45	Claim 6693 6994	In addition, this CMV does not advocate shutting off oil flow, so it is not a pure negative incentive. The rising world oil prices with the cut off of US oil (I will concede that it may have a marginal impact on world prices) is exactly the kind of pressure that would make renewable resources viable.
+T46	Claim 6998 7052	The restriction of flow is a purely negative incentive
+T47	Premise 7061 7096	you aren't doing anything positive.
+T48	Premise 7098 7188	You are providing a disincentive to use fossil fuels (via price increase) and nothing else
+R26	linked-support Arg1:T48 Arg2:T47	
+R27	supports-definitional Arg1:T47 Arg2:T46	
+R28	simple-attack Arg1:T46 Arg2:T45	
+T49	Claim 7262 7335	You can't just throw your hands in the air one day and buy an electric ca
+T50	Premise 7337 7382	when you still owe $10,000 on your F-150 loan
+R29	supports-causal Arg1:T50 Arg2:T49	
+T51	Claim 7387 7439	you can't just choose to switch electrical providers
+T52	Premise 7448 7480	your local plant jacks up prices
+R30	supports-causal Arg1:T52 Arg2:T51	
+T53	Claim 7191 7259	That disincentive doesn't magically make other energy sources viable
+R31	supports-mereorogical Arg1:T49 Arg2:T53	
+R32	supports-mereorogical Arg1:T51 Arg2:T53	
+T54	Modal 7266 7270	can'
+A8	POS T54 verbconcurrence
+T55	Claim 7485 7615	What you're arguing for is essentially a form of self-imposed economic sanction, and those tend to hurt the little people the most
+T56	Premise 7631 7721	if gas prices go up .50 per gallon, that's going to hurt me much more than it will hurt BP
+T57	Premise 7726 7818	still have to drive and I can't afford an electric car, so I'll just pay more and drive less
+R33	linked-support Arg1:T56 Arg2:T57	
+R34	supports-mereorogical Arg1:T56 Arg2:T55	
+T58	Claim 8465 8522	The more expensive it is, the more alternatives there are
+T59	Modal 7983 7988	might
+A9	POS T59 verbentertain
+T60	Claim 7979 8064	You might say that there would be an incentive for me to buy something more efficient
+T61	Claim 8070 8154	I have just as much incentive to simply adapt to spending more of my money on energy
+R35	concession Arg1:T60 Arg2:T61	
+T62	Claim 2423 2476	As I have said in other comments this is not the case
+T63	Claim 2242 2419	Oil companies are quite profitable, but the wealth they generate isn't stagnant; it's either reinvested in the company, invested in other companies or circulated in the economy.
+R36	simple-attack Arg1:T62 Arg2:T63	
+T64	Claim 2478 2585	I would concede on this point if I saw the actual numbers and evidence that this money flow is not stagnant
+T65	Claim 2591 2640	nothing I have seen in my research has shown this
+R37	concession Arg1:T64 Arg2:T65	
+T66	Evidential 2599 2610	I have seen
+A10	POS T66 verbpronouncement
+T67	Premise 2626 2635	has shown
+T68	Evidential 3611 3621	have shown
+A11	POS T68 verbentertain
+T69	Evidential 3765 3770	I see
+A12	POS T69 verbentertain
+T70	Claim 9021 9290	I'm not sure you understood the point. You seem fixated on gas prices when most of what I wrote pertained to the oil money that the US economy would receive from selling said oil. That is an economic benefit to the US irrespective of price or the market where it's sold
+T71	Claim 9617 9717	Increasing the wealth disparity in US companies has a myriad of other negative societal consequences
+T72	Premise 9763 9856	From a utilitarian perspective, this is hurting a larger number of people then it is helping.
+R38	supports-termination_setting_up Arg1:T72 Arg2:T71	
+T73	Evidential 10723 10729	seem t
+A13	POS T73 verbconcurrence
+T74	Claim 10286 10495	I disagree with the statement \"The fact that the price of oil is increasing is enough to spur exploration into alternative energy and we can steer infrastructure expenditures away from petroleum dependencies.
+T75	Claim 10887 11084	The rising world oil prices with the cut off of US oil (I will concede that it may have a marginal impact on world prices) is exactly the kind of pressure that would make renewable resources viable
+T76	Claim 10943 11009	I will concede that it may have a marginal impact on world prices)
+R39	concession Arg1:T75 Arg2:T76	
+T77	Claim 11322 11442	[Quote]1)In most cases the drive for profit precludes this managing, and we have categorically failed at it in the past.
+T78	Claim 11446 11478	That sentence contradicts itself
+R40	simple-attack Arg1:T78 Arg2:T77	
+T79	Claim 11558 11684	In any case, I think arguing that an environmentally safe drilling operation has *never* happened in the US is a little absurd
+T80	Premise 11693 11756	state of Texas would collectively disagree with your assessment
+R41	supports-mereorogical Arg1:T80 Arg2:T79	
+T81	Modal 11805 11809	need
+A14	POS T81 verbconcurrence
+T82	Claim 11972 12045	It could, and by increasing oil production, we don't encourage the change
+T83	Claim 12572 12600	That doesn't make any sense.
+R42	simple-attack Arg1:T83 Arg2:T82	
+T84	Premise 12602 12646	If we're going to use it, we need to have it
+R43	supports-causal Arg1:T84 Arg2:T83	
+T85	Modal 12631 12635	need
+A15	POS T85 verbconcurrence
+T86	Claim 13252 13331	And pushing for reusable energy now really doesn't fix any of our energy issues
+T87	Premise 13334 13480	Until we actually have infrastructure that produces electricity from reusable sources, we either get the fuel we need or we do without electricity
+R44	supports-alternatives Arg1:T87 Arg2:T86	
+T88	Claim 12651 12745	There are forms of incentive and pressure that aren't the proverbial burning of Cortez's ships
+T89	Evidential 13764 13768	seem
+A16	POS T89 verbentertain
+T90	Claim 13996 14049	And saying that US oil is a \"nonfactor\" is baseless
+T91	Premise 14052 14166	The fact that oil production and gas prices have increased simply don't show that because of the global oil market
+R45	supports-definitional Arg1:T91 Arg2:T90	
+T92	Claim 15043 15100	n most cases the drive for profit precludes this managing
+T93	Premise 15106 15152	we have categorically failed at it in the past
+R46	supports-analogy Arg1:T93 Arg2:T92	
+T94	Modal 15163 15168	could
+A17	POS T94 verbentertain
+T95	Claim 15308 15449	I think that it is a lot more practical to push for reusable energy now, and keep our oil as a backup in case the rest of the world runs out.
+T96	Premise 15450 15580	This way we solve for environmental problems and encourage renewable resources AND still have the energy needed for the transition
+R47	supports-termination_setting_up Arg1:T96 Arg2:T95	
+T97	Claim 15625 15678	It doesn't provide as much impact as we think it does
+T98	Premise 15680 15756	If we take gas prices as an example, the reasons gas prices are high is from
+R48	supports-mereorogical Arg1:T98 Arg2:T97	
+T99	Premise 15760 15786	Global supply and demand 2
+T100	Premise 15788 15813	Taxes by the government 3
+T101	Premise 15815 15834	Costs of refining 4
+R49	supports-mereorogical Arg1:T99 Arg2:T98	
+R50	supports-mereorogical Arg1:T100 Arg2:T98	
+R51	supports-mereorogical Arg1:T101 Arg2:T98	
+T102	Evidential 16850 16853	can
+A18	POS T102 verbentertain
+T103	Modal 16933 16936	can
+A19	POS T103 verbconcurrence
+T104	Modal 16968 16972	must
+A20	POS T104 verbconcurrence
+T105	Claim 16843 16924	There *can* be significant environmental consequences with some forms of drilling
+T106	Claim 16927 16963	Those can be managed on the one hand
+T107	Claim 16968 17025	must be measured against prospective benefit on the other
+T108	Claim 17034 17081	he \"renewable energy movement\" is a nice idea
+T109	Claim 17087 17204	it isn't going to readily provide us with gasoline for cars or natural gas for heating and cooking in the near future
+R52	concession Arg1:T108 Arg2:T109	
+T110	Modal 17218 17221	can
+A21	POS T110 verbentertain
+T111	Modal 17234 17238	need
+A22	POS T111 verbentertain
+T112	Modal 17356 17361	could
+A23	POS T112 verbconcurrence
+T113	Claim 17418 17469	It provides considerable economic benefit to the US
+T114	Premise 17472 17522	When the US produces a resource, it produces value
+R53	supports-causal Arg1:T114 Arg2:T113	
+T115	Claim 17893 18030	[Quote] we are doubling down on producing oil, which increases our dependence even more, while at the same time trying to leave it behind
+T116	Claim 18036 18079	We are not increasing our dependence on oil
+R54	simple-attack Arg1:T116 Arg2:T115	
+T117	Premise 18082 18141	U.S. oil consumption has actually decreased in recent years
+R55	simple-support Arg1:T117 Arg2:T116	
+T118	Premise 18144 18186	That's partly due to the economic turndown
+T119	Premise 18192 18275	it's also due to increasing auto efficiency standards and increased use of biofuels
+R56	linked-support Arg1:T119 Arg2:T118	
+R57	supports-causal Arg1:T118 Arg2:T116	
+T120	Claim 19345 19406	My office has several thousand well-paid white collar workers
+T121	Claim 19413 19471	yes the industry supports lots of blue collar jobs as well
+R58	concession Arg1:T120 Arg2:T121	
+T122	Claim 19831 19887	Only recently have people starting raising a fuss over i
+T123	Claim 19898 19955	plenty of government studies saying it is fairly harmless
+R59	concession Arg1:T123 Arg2:T122	
+T124	Claim 20561 20637	You are quite right that increasing domestic supply doesn't help oil prices.
+T125	Claim 20640 20729	t does, however, help natural gas prices, which will be a tremendous boon to the economy.
+R60	concession Arg1:T125 Arg2:T124	
+T126	Modal 20735 20740	could
+A24	POS T126 verbentertain
+T127	Claim 20731 20856	One could argue that sustaining elevated oil prices while deflating nat gas prices is ideal from an environmental standpoint.
+T128	Claim 20935 21083	A low nat gas price enables us to displace coal-fired electric power generation with natural gas electric generation, which yields a twofold benefit
+T129	Premise 21086 21122	it cuts the carbon emissions in half
+T130	Premise 21128 21218	it is ideal peaking generation to offset the instability inherent in wind and solar power.
+R61	supports-termination_setting_up Arg1:T129 Arg2:T128	
+R62	supports-termination_setting_up Arg1:T130 Arg2:T128	
+T131	Claim 21229 21401	I see this as a non issue because we already have 60+ years of infrastructure in place.  Either way distribution will be online, and starting to drill will not be difficult
+T132	Claim 21407 21538	The infrastructure in place is different than the infrastructure that is needed to take advantage of the newly discovered resources
+R63	simple-attack Arg1:T132 Arg2:T131	
+T133	Premise 21541 21658	That's why we are spending tens of billions of dollars *per year* to develop those resources and bring them to market
+R64	supports-causal Arg1:T133 Arg2:T132	
+T134	Modal 21480 21486	needed
+A25	POS T134 verbconcurrence
+T135	Claim 22148 22196	You don't quit smoking by buying more cigarettes
+T136	Claim 21921 22146	The ideological support for the OP is that when we are trying to switch to renewable resources, we are doubling down on producing oil, which increases our dependence even more, while at the same time trying to leave it behind
+R65	attacks-analogy Arg1:T135 Arg2:T136	
+T137	Claim 22910 22975	am not convinced however, that a supply cushion would help prices
+T138	Premise 22985 23029	all the oil is on the world market, not ours
+R66	supports-causal Arg1:T138 Arg2:T137	
+T139	Claim 22735 22793	Fracking is so destructive that it out weighs the benefits
+T140	Claim 23037 23062	I see this as a non issue
+T141	Premise 23071 23124	we already have 60+ years of infrastructure in place.
+R67	supports-causal Arg1:T141 Arg2:T140	
+T142	Claim 22801 22817	I actually agree
+T143	Claim 22823 22906	we still have plenty of leverage seeing as we have the largest economy in the world
+R68	concession Arg1:T143 Arg2:T142	
+T144	Claim 22309 22375	There are several reasons that this industry actually benefits us.
+T145	Claim 23884 23928	It immediately improves our trade imbalance.
+T146	Claim 24397 24456	With oil production inevitably comes natural gas production
+T147	Claim 24899 24920	Geopolitical leverage
+T148	Premise 25071 25217	But, for example, with a sufficient supply cushion, Iran can no longer rattle the world's cage and send the price of oil soaring like it once did.
+R69	supports-mereorogical Arg1:T148 Arg2:T147	
+T149	Claim 26103 26113	Fair point
+T150	Claim 26115 26205	however the US could get cut off from all oil relatively easily without a national supply.
+R70	concession Arg1:T150 Arg2:T149	
+T151	Claim 26590 26655	we don't see anything like widespread employment at this prospect
+T152	Premise 26486 26582	The other jobs could move to other industries, several of which would utilize that kind of labor
+R71	supports-causal Arg1:T152 Arg2:T151	
+T153	Premise 26668 26773	the US government spends literally billions on subsidizing US oil, and puts tariffs on the imported stuff
+T154	Claim 26775 26821	We get more tax money from foreign oil anyways
+R72	supports-causal Arg1:T153 Arg2:T154	
+T155	Evidential 27006 27018	I have shown
+A26	POS T155 verbpronouncement
+T156	Claim 27038 27099	Oil money has little actual benefit to the US economy anyways
+T157	Premise 27003 27036	As I have shown in other comments
+R73	simple-support Arg1:T157 Arg2:T156	
+T158	Claim 27404 27540	Forcing the oil companies to shut down plants would cause widespread unemployment and make the markets associated with oil very unstable
+T159	Premise 27307 27402	The oil industry is huge, the US gets tax dollars and other economic benefits from oil drilling
+R74	supports-causal Arg1:T159 Arg2:T158	
+T160	Claim 27890 27962	ll three could wipe out entire industries, further impacting the economy
+T161	Premise 27546 27699	Oil is a fairly cheap source of energy in comparison to renewables and is a vital component to many other machines and industries in the US and globally.
+T162	Premise 27700 27887	Halting oil production would make it harder and more expensive to buy internationally, it would drive up costs if renewables were used or it would straight up force companies to shut down
+R75	linked-support Arg1:T161 Arg2:T162	
+R76	supports-termination_setting_up Arg1:T162 Arg2:T160	
+T163	Claim 27996 28052	buying from overseas hurts the national economy two fold
+T164	Premise 28059 28141	rather than making and selling the oil for a price, you'd be buying for that price
+R77	supports-causal Arg1:T164 Arg2:T163	
+T165	Modal 28428 28433	could
+A27	POS T165 verbconcurrence
+T166	Premise 28271 28374	The fall of a major super power would massively change global politics and would probably lead to WWIII
+T167	Claim 28377 28453	he US would either be taken over or torn apart and could lead to nuclear war
+R78	supports-causal Arg1:T166 Arg2:T167	
+T168	Claim 28856 29023	we don't and a large portion of our economy depends on the transportation of goods economically it would hurt us an would potentially slow renewable energy development
+T169	Premise 29035 29130	how are you going to transport the materials to a solar panel manufacturer if they have no gas.
+R79	supports-mereorogical Arg1:T169 Arg2:T168	
+T170	Claim 29999 30082	Your adding an unnecessary extra step where there is no way that you benefit anyone
+T171	Modal 30014 30025	unnecessary
+A28	POS T171 adjconcurrence
+T172	Premise 29870 29997	Now these companies have to have their oil shipped cross country before they can be refined and THEN shipped of to gas stations
+R80	supports-termination_setting_up Arg1:T172 Arg2:T170	
+T173	Claim 29681 29684	Yes
+T174	Claim 29689 29868	you need to remember that some companies are located where they are because of transportation costs, such as a petroleum distributor being located next to an oil drilling hot spot
+R81	concession Arg1:T173 Arg2:T174	
+T175	Premise 30453 30462	shouldn't
+A29	POS T175 verbentertain
+T176	Modal 30721 30727	should
+A30	POS T176 verbconcurrence
+T177	Claim 31241 31290	Okay that still isn't making much of a difference
+T178	Premise 31292 31378	There are still import taxes that companies will have to deal with from the other 50%.
+T179	Premise 31379 31492	The U.S. is big so you will still have to ship that oil all over the country which will require oil to transport.
+R82	linked-support Arg1:T178 Arg2:T179	
+R83	supports-causal Arg1:T178 Arg2:T177	
+T180	Claim 31587 31659	Remember we get over 50% of our oil from canada, which is not over seas.
+R84	simple-attack Arg1:T180 Arg2:T179	
+T181	Modal 31913 31917	need
+A31	POS T181 verbentertain
+T182	Premise 31909 32048	You need to remember that this would cause trucking companies to ship oil from over seas rather than shipping it from a near by oil driller
+T183	Claim 32050 32142	This alone is counter productive because now your wasting more petroleum because of shipping
+R85	supports-causal Arg1:T182 Arg2:T183	
+T184	Claim 31754 31908	Buying from other countries wouldn't be as bad but it would still cause energy prices to shoot up across the country as well as the goods that we produce.
+R86	supports-mereorogical Arg1:T183 Arg2:T184	
+T185	Modal 32294 32300	I need
+A32	POS T185 verbentertain
+T186	Evidential 32301 32306	proof
+A33	POS T186 nounconcurrence
+T187	Claim 32458 32575	The main problem with your argument is that you are overlooking the benefits that fossil fuels provide to our economy
+T188	Claim 33174 33240	the U.S. doesn't have the infrastructure required to do that today
+T189	Claim 33090 33172	while it would be amazing to run our county off of nuclear and a bit of renewables
+R87	concession Arg1:T189 Arg2:T188	
+T190	Premise 32995 33085	The vast majority of these products come from trucking companies which depend on petroleum
+R88	supports-causal Arg1:T190 Arg2:T188	
+T191	Evidential 33807 33813	Source
+A34	POS T191 nounendorsement
+T192	Modal 34058 34062	need
+A35	POS T192 verbconcurrence
+T193	Modal 33884 33892	I should
+A36	POS T193 verbentertain
+T194	Evidential 35772 35784	According to
+A37	POS T194 nounendorsement
+T195	Claim 36134 36240	I would bet commercial use edges out personal use in total miles, plus trucks are not as efficient as cars
+T196	Modal 36076 36082	cannot
+A38	POS T196 verbentertain
+T197	Claim 36269 36307	all of those factors affect oil prices
+T198	Premise 36321 36411	Libya: http://finance.yahoo.com/news/why-unrest-libya-persistently-disrupted-180632157.htm
+T199	Premise 36416 36535	Ukraine: http://www.theaustralian.com.au/business/latest/oil-prices-climb-on-ukraine-fears/story-e6frg90f-1226896645046
+T200	Premise 36539 36652	Egypt: http://www.telegraph.co.uk/finance/oilprices/10244435/Egypt-unrest-pushes-oil-price-above-111-a-barrel.htm
+T201	Premise 36657 36795	And a drop thanks to Iran: http://oilprice.com/Alternative-Energy/Nuclear-Power/The-Iranian-Nuclear-Deal-and-Its-Effect-on-Oil-Markets.htm
+R89	linked-support Arg1:T201 Arg2:T200	
+R90	linked-support Arg1:T200 Arg2:T199	
+R91	linked-support Arg1:T199 Arg2:T198	
+R92	supports-complex Arg1:T198 Arg2:T197	
+T202	Claim 36979 37014	Finally my last part is speculation
+T203	Claim 37019 37090	I think we can assume that a 10% drop in supply would effect the price.
+R93	concession Arg1:T202 Arg2:T203	
+T204	Claim 38137 38215	Saying supply and demand doesnt effect prices because prices are high is wrong
+T205	Premise 38217 38326	The Ukraine crisis, Libya, Egypt, Iran, and increasing demand around the world are currently effecting prices
+R94	supports-definitional Arg1:T205 Arg2:T204	
+T206	Claim 38912 38956	oil simply are not lowering like they should
+T207	Claim 38692 38911	Even though we have increased our production and are projected to become the world leader by 2020 (showing that in the future much more oil will come from us), and the rest of the world is increasing production as well,
+R95	concession Arg1:T207 Arg2:T206	
+T208	Premise 38958 39058	That is because the world market does not operate on the simple supply-demand system we are used to.
+R96	supports-causal Arg1:T208 Arg2:T206	
+T209	Premise 39536 39615	source: http://www.instituteforenergyresearch.org/energy-overview/petroleum-oil
+T210	Evidential 39536 39542	source
+A39	POS T210 nounendorsement
+T211	Claim 39409 39432	Here are some real ones
+T212	Premise 40182 40221	Oil prices are based on future supplies
+T213	Claim 40223 40334	if the US just stopped drilling the price would skyrocket around the world because the future supply would drop
+R97	supports-causal Arg1:T212 Arg2:T213	
+T214	Premise 40342 40397	I believe about 50% of oil is used for cars, houses etc
+T215	Premise 40399 40449	The rest goes to plastics and many other chemicals
+T216	Claim 40451 40548	Including increased manufacturing and transportation costs prices of every product would increase
+R98	linked-support Arg1:T214 Arg2:T215	
+R99	supports-causal Arg1:T215 Arg2:T216	
+T217	Claim 40642 40708	he end of drilling would still increase the price of most products
+T218	Claim 40557 40640	Even if we gave ourselves 10 years to convert to renewable energy ( not reasonable)
+R100	concession Arg1:T218 Arg2:T217	
+T219	Claim 40710 40755	this isn't good for the middle class and poor
+R101	supports-termination_setting_up Arg1:T217 Arg2:T219	
+T220	Evidential 41072 41082	This shows
+A40	POS T220 verbendorsement
+T221	Premise 41020 41070	http://www.eccos.us/what-is-oil-used-for read this
+T222	Claim 41084 41110	ow dependent we are on oil
+R102	supports-complex Arg1:T221 Arg2:T222	
+T223	Modal 42249 42255	should
+A41	POS T223 verbconcurrence
+T224	Evidential 42944 42949	seems
+A42	POS T224 verbconcurrence
+T225	Modal 43082 43085	can
+A43	POS T225 verbentertain
+T226	Modal 43395 43399	need
+A44	POS T226 verbconcurrence
+T227	Evidential 43510 43514	need
+A45	POS T227 verbconcurrence
+T228	Claim 43346 43435	Eventually we they will become so scarce that we need to innovate (what you're proposing)
+T229	Claim 43534 43610	I don't believe for a second that we'll wait until all oil is gone to switch
+T230	Premise 44095 44156	oil producing countries rig the market by limiting production
+T231	Premise 44158 44247	An increase in price means oil producers will produce more until the price becomes stable
+T232	Claim 44271 44329	the world will be producing the same amount of oil anyways
+R103	linked-support Arg1:T230 Arg2:T231	
+R104	supports-causal Arg1:T231 Arg2:T232	
+T233	Premise 44763 44803	Germany is going all-in for green energy
+T234	Premise 44805 44901	They've found it to be expensive as fuck, and their greenhouse emissions are actually increasing
+T235	Modal 44954 44962	I couldn
+A46	POS T235 verbentertain
+T236	Claim 44903 44980	If the US saw a similar increase in energy prices, I couldn't afford my house
+R105	linked-support Arg1:T233 Arg2:T234	
+R106	supports-analogy Arg1:T234 Arg2:T236	
+T237	Modal 46358 46361	CAN
+A47	POS T237 verbconcurrence
+T238	Premise 47627 47676	we still need oil to supplement solar tech growth
+T239	Modal 47636 47640	need
+A48	POS T239 verbconcurrence
+T240	Claim 47679 47799	With that in mind, drilling for oil to lower costs and increase reserve life can benefit the growth of renewable energy.
+R107	supports-causal Arg1:T238 Arg2:T240	
+T241	Claim 47756 47759	can
+T242	Claim 48047 48117	The US should drill its own oil so as not to depend on foreign sources
+T243	Modal 48054 48060	should
+A49	POS T243 verbconcurrence
+T244	Premise 47946 48045	The 1973 OPEC oil embargo hugely damaged the US economy when we weren't able to meet our own demand
+R108	supports-mereorogical Arg1:T244 Arg2:T242	
+T245	Claim 49054 49236	for every drop of the world's oil America produces instead of another country, more oil is locked away in the ground for all eternity resulting in a benefit for the world environment
+T246	Premise 48865 49038	America's system depletes the pressure in a field much more quickly than the middle eastern approach, stranding a higher percentage of the field's oil deposits in the ground
+R109	supports-causal Arg1:T246 Arg2:T245	
+T247	Premise 48208 48306	The United States has relatively strict environmental laws compared to other oil-producing nations
+T248	Claim 48308 48502	It would be better for the world's environment for America to produce the fossil fuels we consume than to shift our demand onto the world economy and incentivize heavier polluters to drill more.
+R110	supports-causal Arg1:T247 Arg2:T248	
+T249	Premise 48761 48863	This results in lots of small wells in an oil field where a middle eastern country may have one or two
+T250	Premise 48506 48668	Also, this is not readily apparent, but the United States' method of oil production is less efficient than that of Saudi Arabia and other nationalized oil regimes
+T251	Premise 48670 48759	This is because landowners in America generally have a right to drill for oil on our land
+R111	linked-support Arg1:T250 Arg2:T251	
+R112	supports-causal Arg1:T251 Arg2:T249	
+T252	Claim 50242 50352	You can't create enough facilities that can harness renewable energy without using fossil fuels to create them
+T253	Modal 50246 50251	can't
+A50	POS T253 verbentertain
+T254	Premise 50282 50285	can
+A51	POS T254 verbconcurrence
+T255	Premise 50355 50405	Building solar panels etc requires a lot of energy
+R113	supports-mereorogical Arg1:T255 Arg2:T252	
+T256	Claim 49880 49968	make us reliant on corrupt countries that are against fundamental parts of our democracy
+T257	Premise 49593 49714	if we don't build any infrastructure and create experienced workers over here, we will not be able to make a quick switch
+T258	Premise 49716 49826	It takes years to create the necessary infrastructure/workers, and it takes years for them to gain experience.
+R114	linked-support Arg1:T257 Arg2:T258	
+R115	supports-causal Arg1:T258 Arg2:T256	
